@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Test resume [resume]https://github.com/MonsieurZad/MonsieurZad.github.io/blob/master/resume.html
+Test resume [resume](https://github.com/MonsieurZad/MonsieurZad.github.io/blob/master/resume.html)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
