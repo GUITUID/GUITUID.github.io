@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'fontdemo';
-  src: url('../font/fontdemo.eot?37205642');
+  /* src: url('../font/fontdemo.eot?37205642'); */
   src: url('../font/fontdemo.eot?37205642#iefix') format('embedded-opentype'),
        url('../font/fontdemo.woff2?37205642') format('woff2'),
        url('../font/fontdemo.woff?37205642') format('woff'),
