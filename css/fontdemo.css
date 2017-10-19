@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontdemo';
-  src: url('https://monsieurzad.github.io/font/fontdemo.eot?37205642');
-  src: url('https://monsieurzad.github.io/font/fontdemo.eot?37205642#iefix') format('embedded-opentype'),
-       url('https://monsieurzad.github.io/font/fontdemo.woff2?37205642') format('woff2'),
-       url('https://monsieurzad.github.io/font/fontdemo.woff?37205642') format('woff'),
-       url('https://monsieurzad.github.io/font/fontdemo.ttf?37205642') format('truetype'),
-       url('https://monsieurzad.github.io/font/fontdemo.svg?37205642#fontdemo') format('svg');
+  src: url('../font/fontdemo.eot?37205642');
+  src: url('../font/fontdemo.eot?37205642#iefix') format('embedded-opentype'),
+       url('../font/fontdemo.woff2?37205642') format('woff2'),
+       url('../font/fontdemo.woff?37205642') format('woff'),
+       url('../font/fontdemo.ttf?37205642') format('truetype'),
+       url('../font/fontdemo.svg?37205642#fontdemo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
