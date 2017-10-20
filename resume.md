@@ -16,8 +16,7 @@
 
 <h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur JAVA / Appian / AEM / Agile</h1>
 
-<h2 id="résumé"><i class="fa fa-file-text-o">
-Résumé</i></h2>
+<h2 id="résumé"><i class="fa fa-file-text-o"> Résumé</i></h2>
 
 <p>Développeur depuis près 8 ans dont 7 passés au sein d’Accenture Technology Solutions. </p>
 
@@ -118,85 +117,81 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
   <td>SAS 9.2 - Bookrunner</td>
 </tr>
 <tr>
-  <td><i class="fa fa-keyboard-o">
-  2009 </i></td>
+  <td><i class="fa fa-keyboard-o"> 2009</i></td>
   <td>BTS Informatique de Gestion: Développeur D’applications</td>
 </tr>
 <tr>
-  <td><i class="fa fa-gavel">
-  2006  </i></td>
+  <td><i class="fa fa-gavel"> 2006</i></td>
   <td>Études notariales (1ière année, École Notariale de Paris)</td>
 </tr>
 <tr>
-  <td><i class="fa fa-keyboard-o">
-  2005    </i></td>
+  <td><i class="fa fa-keyboard-o"> 2005</i></td>
   <td>BAC STT: Informatique de Gestion</td>
 </tr>
 </tbody>
 </table>
 
-<h2 id="expériences-professionnelles"><i class="fa fa-briefcase">
-Expériences professionnelles</i></h2>
+<h2 id="expériences-professionnelles"><i class="fa fa-briefcase"> Expériences professionnelles</i></h2>
 
-<h3 id="belle-pivoine"><i class="fa fa-bookmark">Belle Pivoine</i></h3>
+<h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
 <p><strong>du 18/07/2016 à aujourd’hui</strong></p>
 
 <table>
-<thead>
-<tr>
-  <th><h4><i class="fa fa-file-o">
-  Belle Pivoine</i><h4></th>
-  <th>Période du 18/07/2016 à aujourd’hui</th>
-</tr>
-</thead>
-<tbody><tr>
-  <td>Poste</td>
-  <td>Co-gérant</td>
-</tr>
-<tr>
-  <td>Résumé</td>
-  <td>Belle Pivoine est une entreprise de création/vente d’articles de papeterie (cartes de vœux, faire parts…) fait main.<br>
-  En tant que co-gérant avec mon épouse je participe au contact avec les clients répondants à leurs interrogations et leurs souhaits.
-  <br> Je participe également à la production, la gestion du stock, l’administration ainsi qu’à l’organisation des salons (administration, logistique…).</td>
-</tr>
-<tr>
-  <td>Missions</td>
-  <td>Contact client</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Organisation des salons</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Gestion du stock</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Comptabilité</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Gestion administrative</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Maintenance et référencement du site web</td>
-</tr>
-<tr>
-  <td>Outils / Technologies utilisés</td>
-  <td>Wordpress</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Excel</td>
-</tr>
-</tbody></table>
-<div style="page-break-before:always">&nbsp;</div> 
-<h3 id="accenture-technology-solutions"><i class="fa fa-bookmark">
-Accenture Technology Solutions</i></h3>
+	<thead>
+		<tr>
+		  <th><h4><i class="fa fa-file-o"> Belle Pivoine</i><h4></th>
+		  <th>Période du 18/07/2016 à aujourd’hui</th>
+		</tr>
+	</thead>
+<tbody>
+	<tr>
+	  <td>Poste</td>
+	  <td>Co-gérant</td>
+	</tr>
+	<tr>
+	  <td>Résumé</td>
+	  <td>Belle Pivoine est une entreprise de création/vente d’articles de papeterie (cartes de vœux, faire parts…) fait main.<br>
+	  En tant que co-gérant avec mon épouse je participe au contact avec les clients répondants à leurs interrogations et leurs souhaits.
+	  <br> Je participe également à la production, la gestion du stock, l’administration ainsi qu’à l’organisation des salons (administration, logistique…).</td>
+	</tr>
+	<tr>
+	  <td>Missions</td>
+	  <td>Contact client</td>
+	</tr>
+	<tr>
+	  <td></td>
+	  <td>Organisation des salons</td>
+	</tr>
+	<tr>
+	  <td></td>
+	  <td>Gestion du stock</td>
+	</tr>
+	<tr>
+	  <td></td>
+	  <td>Comptabilité</td>
+	</tr>
+	<tr>
+	  <td></td>
+	  <td>Gestion administrative</td>
+	</tr>
+	<tr>
+	  <td></td>
+	  <td>Maintenance et référencement du site web</td>
+	</tr>
+	<tr>
+	  <td>Outils / Technologies utilisés</td>
+	  <td>Wordpress</td>
+	</tr>
+	<tr>
+	  <td></td>
+	  <td>Excel</td>
+	</tr>
+</tbody>
+</table>
 
+<!-- <div style="page-break-before:always">&nbsp;</div> -->
+<h3 id="accenture-technology-solutions"><i class="fa fa-bookmark"> Accenture Technology Solutions</i></h3>
 <p><strong>Période du 28/10/2010 à aujourd’hui</strong></p>
 
 <table>
