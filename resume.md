@@ -8,11 +8,11 @@
 
 <p>
 <br>
-<i class="fa fa-user"></i>Guillaume Tuis <br>
-<i class="fa fa-home"></i>48 Avenue de Fontainebleau<br>
+<i class="fa fa-user"></i> Guillaume Tuis <br>
+<i class="fa fa-home"></i> 48 Avenue de Fontainebleau<br>
 77310 Pringy<br>
 <i class="fa  fa-envelope-o">
-</i><a href="guillaume.tuis.cv@gmail.com">guillaume.tuis.cv@gmail.com</a></p>
+</i><a href="guillaume.tuis.cv@gmail.com"> guillaume.tuis.cv@gmail.com</a></p>
 
 <h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur JAVA / Appian / AEM / Agile</h1>
 
