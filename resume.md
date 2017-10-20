@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr" style="background:#F2F2F2">
 <head>
 	<meta charset="UTF-8">
@@ -1140,6 +1140,5 @@ Centres d’intérêt</i></h2>
   <td></td>
 </tr>
 </tbody></table>
-
 </body>
 </html>
