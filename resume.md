@@ -1,7 +1,7 @@
 <!-- <!DOCTYPE html> -->
 <!-- <html lang="fr"> -->
 <!-- <head> -->
-	<!-- <meta charset="UTF-8">
+	<!-- <meta charset="UTF-8"> -->
 	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <!-- </head> -->
 <body>
