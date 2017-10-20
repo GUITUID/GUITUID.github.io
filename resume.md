@@ -10,7 +10,7 @@
 <br>
 <i class="fa fa-user"></i> Guillaume Tuis <br>
 <i class="fa fa-home"></i> 48 Avenue de Fontainebleau<br>
-       77310 Pringy<br>
+77310 Pringy<br>
 <i class="fa  fa-envelope-o">
 </i><a href="guillaume.tuis.cv@gmail.com"> guillaume.tuis.cv@gmail.com</a></p>
 
@@ -27,7 +27,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 
 <p>Je suis titulaire du permis B depuis le 19/01/2010 et suis mobile en région parisienne.</p>
 
-<h2 id="formation"><i class="fa fa-book">Formation</i></h2>
+<h2 id="formation"><i class="fa fa-book"> Formation</i></h2>
 
 <table>
 	<thead>
@@ -123,29 +123,29 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
   <td>BTS Informatique de Gestion: Développeur D’applications</td>
 </tr>
 <tr>
-  <td><i class="icon-hammer">
+  <td><i class="fa fa-gavel">
   2006  </i></td>
   <td>Études notariales (1ière année, École Notariale de Paris)</td>
 </tr>
 <tr>
-  <td><i class="icon-keyboard">
+  <td><i class="fa fa-keyboard-o">
   2005    </i></td>
   <td>BAC STT: Informatique de Gestion</td>
 </tr>
 </tbody>
 </table>
 
-<h2 id="expériences-professionnelles"><i class="icon-briefcase">
+<h2 id="expériences-professionnelles"><i class="fa fa-briefcase">
 Expériences professionnelles</i></h2>
 
-<h3 id="belle-pivoine"><i class="icon-bookmark">Belle Pivoine</i></h3>
+<h3 id="belle-pivoine"><i class="fa fa-bookmark">Belle Pivoine</i></h3>
 
 <p><strong>du 18/07/2016 à aujourd’hui</strong></p>
 
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-doc">
+  <th><h4><i class="fa fa-file-o">
   Belle Pivoine</i><h4></th>
   <th>Période du 18/07/2016 à aujourd’hui</th>
 </tr>
@@ -194,7 +194,7 @@ Expériences professionnelles</i></h2>
 </tr>
 </tbody></table>
 <div style="page-break-before:always">&nbsp;</div> 
-<h3 id="accenture-technology-solutions"><i class="icon-bookmark">
+<h3 id="accenture-technology-solutions"><i class="fa fa-bookmark">
 Accenture Technology Solutions</i></h3>
 
 <p><strong>Période du 28/10/2010 à aujourd’hui</strong></p>
@@ -569,7 +569,7 @@ Accenture Technology Solutions</i></h3>
 </tr>
 </tbody></table>
 <div style="page-break-before:always">&nbsp;</div> 
-<h3 id="mobibase"><i class="icon-bookmark">
+<h3 id="mobibase"><i class="fa fa-bookmark">
 Mobibase</i></h3>
 
 <p><strong>Période du 19/11/2009 au 31/08/2010</strong></p>
