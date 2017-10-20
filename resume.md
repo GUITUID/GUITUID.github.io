@@ -1,8 +1,8 @@
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fr" style="background:#F2F2F2">
 <head>
-<meta charset="UTF-8">
+	<meta charset="UTF-8">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head> 
 <body>
