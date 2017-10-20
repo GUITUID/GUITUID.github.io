@@ -2,6 +2,8 @@
 
 ## Welcome to GitHub Pages
 
+Test font awesome: <i class="fa fa-camera-retro fa-lg"></i> fa-lg
+
 Test resume [resume](https://MonsieurZad.github.io/resume.html)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
