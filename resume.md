@@ -1,8 +1,8 @@
 <!-- <!DOCTYPE html> -->
-<!-- <html lang="fr"> -->
-<!-- <head> -->
+<html lang="fr">
+<head>
 	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
-<!-- </head> -->
+</head>
 <body>
 
 <p>
