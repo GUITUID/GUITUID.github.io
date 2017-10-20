@@ -8,7 +8,8 @@
 
 <p>
 <br>
-<i class="fa-user"></i>Guillaume Tuis <br>
+<i class="fa fa-cube"></i>
+<i class="fa fa-user"></i>Guillaume Tuis <br>
 <i class="icon-home"></i>48 Avenue de Fontainebleau<br>
 77310 Pringy<br>
 <i class="icon-mail">
