@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="fr">
 <head>
 	<meta charset="UTF-8">
@@ -8,7 +8,7 @@
 
 <p>
 <br>
-<i class="icon-user"></i>Guillaume Tuis <br>
+<i class="fa-user"></i>Guillaume Tuis <br>
 <i class="icon-home"></i>48 Avenue de Fontainebleau<br>
 77310 Pringy<br>
 <i class="icon-mail">
