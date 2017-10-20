@@ -16,7 +16,7 @@
 
 <h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur JAVA / Appian / AEM / Agile</h1>
 
-<h2 id="résumé"><i class="fa fa-file-text-o"> Résumé</i></h2>
+<h2 id="résumé"><i class="fa fa-file-text-o fa-2x"> Résumé</i></h2>
 
 <p>Développeur depuis près 8 ans dont 7 passés au sein d’Accenture Technology Solutions. </p>
 
@@ -26,7 +26,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 
 <p>Je suis titulaire du permis B depuis le 19/01/2010 et suis mobile en région parisienne.</p>
 
-<h2 id="formation"><i class="fa fa-book"> Formation</i></h2>
+<h2 id="formation"><i class="fa fa-book fa-2x"> Formation</i></h2>
 
 <table>
 	<thead>
@@ -35,103 +35,103 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 		  <th></th>
 		</tr>
 	</thead>
-<tbody>
-<tr>
-  <td>2017</td>
-  <td>Appian - 201 FUNDAMENTALS Designer [D201] 17.1</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Appian - 202 ADV EXP &amp; SAIL Designer [D202] 17.1</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - Bootcamp 6.2</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - Develop Websites &amp; Components AEM 6.2</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - Administer and Securely Maintain AEM 6.x</td>
-</tr>
-<tr>
-  <td>2014</td>
-  <td>Adobe AEM - Adobe Developer v6.0</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - AEM Fastrack Developer</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - Advanced Developer v6.0</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - System Administrator v6.0</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Adobe AEM - Bootcamp 6.2</td>
-</tr>
-<tr>
-  <td>2011</td>
-  <td>SAS 9.2 - Operations Research</td>
-</tr>
-<tr>
-  <td>2010</td>
-  <td>SAS 9.2 - Data Integration Studio</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Enterprise Guide</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Management Console</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Web Report Studio</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Add-in for Microsoft Office</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - BI Dashboard</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Information Map Studio</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Information Delivery Portal</td>
-</tr>
-<tr>
-  <td></td>
-  <td>SAS 9.2 - Bookrunner</td>
-</tr>
-<tr>
-  <td><i class="fa fa-keyboard-o"> 2009</i></td>
-  <td>BTS Informatique de Gestion: Développeur D’applications</td>
-</tr>
-<tr>
-  <td><i class="fa fa-gavel"> 2006</i></td>
-  <td>Études notariales (1ière année, École Notariale de Paris)</td>
-</tr>
-<tr>
-  <td><i class="fa fa-keyboard-o"> 2005</i></td>
-  <td>BAC STT: Informatique de Gestion</td>
-</tr>
-</tbody>
+	<tbody>
+		<tr>
+		  <td>2017</td>
+		  <td>Appian - 201 FUNDAMENTALS Designer [D201] 17.1</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Appian - 202 ADV EXP &amp; SAIL Designer [D202] 17.1</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - Bootcamp 6.2</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - Develop Websites &amp; Components AEM 6.2</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - Administer and Securely Maintain AEM 6.x</td>
+		</tr>
+		<tr>
+		  <td>2014</td>
+		  <td>Adobe AEM - Adobe Developer v6.0</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - AEM Fastrack Developer</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - Advanced Developer v6.0</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - System Administrator v6.0</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>Adobe AEM - Bootcamp 6.2</td>
+		</tr>
+		<tr>
+		  <td>2011</td>
+		  <td>SAS 9.2 - Operations Research</td>
+		</tr>
+		<tr>
+		  <td>2010</td>
+		  <td>SAS 9.2 - Data Integration Studio</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Enterprise Guide</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Management Console</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Web Report Studio</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Add-in for Microsoft Office</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - BI Dashboard</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Information Map Studio</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Information Delivery Portal</td>
+		</tr>
+		<tr>
+		  <td></td>
+		  <td>SAS 9.2 - Bookrunner</td>
+		</tr>
+		<tr>
+		  <td><i class="fa fa-keyboard-o"> 2009</i></td>
+		  <td>BTS Informatique de Gestion: Développeur D’applications</td>
+		</tr>
+		<tr>
+		  <td><i class="fa fa-gavel"> 2006</i></td>
+		  <td>Études notariales (1ière année, École Notariale de Paris)</td>
+		</tr>
+		<tr>
+		  <td><i class="fa fa-keyboard-o"> 2005</i></td>
+		  <td>BAC STT: Informatique de Gestion</td>
+		</tr>
+	</tbody>
 </table>
 
-<h2 id="expériences-professionnelles"><i class="fa fa-briefcase"> Expériences professionnelles</i></h2>
+<h2 id="expériences-professionnelles"><i class="fa fa-briefcase fa-2x"> Expériences professionnelles</i></h2>
 
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
