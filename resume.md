@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="fr">
 <head>
 	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
@@ -195,8 +195,8 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-fire">
-  GRDF</i></h4></th>
+  <th><h3><i class="fa fa-fire">
+  GRDF</i></h3></th>
   <th>du 18/07/2016 à aujourd’hui</th>
 </tr>
 </thead>
@@ -259,8 +259,8 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-money">
-  La Banque Postale</i></h4></th>
+  <th><h3><i class="fa fa-money">
+  La Banque Postale</i></h3></th>
   <th>du 10/10/2016 au 20/02/2017</th>
 </tr>
 </thead>
@@ -319,8 +319,8 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-money">
-  Axa</i></h4></th>
+  <th><h3><i class="fa fa-money">
+  Axa</i></h3></th>
   <th>du 01/02/2016 au 30/09/2016</th>
 </tr>
 </thead>
@@ -413,8 +413,8 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-mobile">
-  Orange</i></h4></th>
+  <th><h3><i class="fa fa-mobile">
+  Orange</i></h3></th>
   <th>du 01/12/2014 au 29/01/2016</th>
 </tr>
 </thead>
@@ -474,7 +474,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-tint"> Total</i></h4></th>
+  <th><h3><i class="fa fa-tint"> Total</i></h3></th>
   <th>du 28/10/2010 au 19/08/2014</th>
 </tr>
 </thead>
@@ -570,7 +570,7 @@ Mobibase</i></h3>
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-mobile"> Mobibase</i></h4></th>
+  <th><h3><i class="fa fa-mobile"> Mobibase</i></h3></th>
   <th>du 28/10/2010 au 19/08/2010</th>
 </tr>
 </thead>
@@ -637,7 +637,7 @@ Mobibase</i></h3>
 <table>
 <thead>
 <tr>
-  <th><h4><i class="fa fa-mobile"> Mobibase</i></h4></th>
+  <th><h3><i class="fa fa-mobile"> Mobibase</i></h3></th>
   <th>du 19/11/2009 au 19/02/2010</th>
 </tr>
 </thead>
