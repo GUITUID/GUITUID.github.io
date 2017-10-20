@@ -8,10 +8,8 @@
 
 <p>
 <br>
-<i class="icon-user">
-</i>Guillaume Tuis <br>
-<i class="icon-home">
-</i>48 Avenue de Fontainebleau<br>
+<i class="icon-user"></i>Guillaume Tuis <br>
+<i class="icon-home"></i>48 Avenue de Fontainebleau<br>
 77310 Pringy<br>
 <i class="icon-mail">
 </i><a href="guillaume.tuis.cv@gmail.com">guillaume.tuis.cv@gmail.com</a></p>
