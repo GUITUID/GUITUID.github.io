@@ -761,7 +761,7 @@ Langues</i></h2>
   <td>Appian SAIL</td>
 </tr>
 <tr>
-  <td>Niveau intermédiaire:</td>
+  <td>Niveau intermédiaire: <meter min="0" max="100" value="50"></meter></td>
   <td>ASP</td>
 </tr>
 <tr>
