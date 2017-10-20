@@ -6,7 +6,7 @@ Test font awesome:
 <i class="fa fa-cube"></i>
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
 
-Test resume [resume](https://MonsieurZad.github.io/resume.md)
+Test resume [resume](../resume.md)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
