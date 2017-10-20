@@ -131,7 +131,6 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 </table>
 
 <h2 id="expériences-professionnelles"><i class="fa fa-briefcase fa-lg"> Expériences professionnelles</i></h2>
-</br>
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
 <p><strong>du 18/07/2016 à aujourd’hui</strong></p>
@@ -150,7 +149,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 	</tr>
 	<tr>
 	  <td>Résumé</td>
-	  <td>Belle Pivoine est une entreprise de création/vente d’articles de papeterie (cartes de vœux, faire parts…) fait main.<br>
+	  <td>Belle Pivoine est une entreprise de création/vente d’articles de papeterie (cartes de vœux, faire parts…) fait main.<br />
 	  En tant que co-gérant avec mon épouse je participe au contact avec les clients répondants à leurs interrogations et leurs souhaits.
 	  <br> Je participe également à la production, la gestion du stock, l’administration ainsi qu’à l’organisation des salons (administration, logistique…).</td>
 	</tr>
@@ -1062,10 +1061,7 @@ Langues</i></h2>
   <td>Merise</td>
 </tr>
 </tbody></table>
-
-</br>
-
-
+<br />
 <h2 id="projets-personnels"><i class="fa fa-puzzle-piece"> Projets personnels</i></h2>
 <table>
 <thead>
@@ -1087,7 +1083,7 @@ Langues</i></h2>
   <td><a href="http://bellepivoine.com/">http://bellepivoine.com/</a></td>
 </tr>
 </tbody></table>
-</br>
+<br />
 
 <h2 id="centres-dintérêt"><i class="fa fa-tag"> Centres d’intérêt</i></h2>
 <table>
