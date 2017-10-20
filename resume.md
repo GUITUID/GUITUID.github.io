@@ -138,7 +138,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 	<thead>
 		<tr>
-		  <th><i class="fa fa-file-o"> Belle Pivoine</i></th>
+		<th><h3><i class="fa fa-file-o"> Belle Pivoine</i></h3></th>
 		  <th>Période du 18/07/2016 à aujourd’hui</th>
 		</tr>
 	</thead>
