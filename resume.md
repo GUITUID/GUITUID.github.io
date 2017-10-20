@@ -29,8 +29,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 
 <p>Je suis titulaire du permis B depuis le 19/01/2010 et suis mobile en région parisienne.</p>
 
-<h2 id="formation"><i class="icon-book">
-Formation</i></h2>
+<h2 id="formation"><i class="icon-book">Formation</i></h2>
 
 <table>
 	<thead>
