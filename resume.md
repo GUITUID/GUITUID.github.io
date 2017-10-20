@@ -8,16 +8,15 @@
 
 <p>
 <br>
-<i class="fa fa-cube"></i>
 <i class="fa fa-user"></i>Guillaume Tuis <br>
-<i class="icon-home"></i>48 Avenue de Fontainebleau<br>
+<i class="fa fa-home"></i>48 Avenue de Fontainebleau<br>
 77310 Pringy<br>
-<i class="icon-mail">
+<i class="fa  fa-envelope-o">
 </i><a href="guillaume.tuis.cv@gmail.com">guillaume.tuis.cv@gmail.com</a></p>
 
 <h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur JAVA / Appian / AEM / Agile</h1>
 
-<h2 id="résumé"><i class="icon-doc-text">
+<h2 id="résumé"><i class="fa fa-file-text-o">
 Résumé</i></h2>
 
 <p>Développeur depuis près 8 ans dont 7 passés au sein d’Accenture Technology Solutions. </p>
@@ -28,7 +27,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 
 <p>Je suis titulaire du permis B depuis le 19/01/2010 et suis mobile en région parisienne.</p>
 
-<h2 id="formation"><i class="icon-book">Formation</i></h2>
+<h2 id="formation"><i class="fa fa-book">Formation</i></h2>
 
 <table>
 	<thead>
@@ -119,7 +118,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
   <td>SAS 9.2 - Bookrunner</td>
 </tr>
 <tr>
-  <td><i class="icon-keyboard">
+  <td><i class="fa fa-keyboard-o">
   2009 </i></td>
   <td>BTS Informatique de Gestion: Développeur D’applications</td>
 </tr>
