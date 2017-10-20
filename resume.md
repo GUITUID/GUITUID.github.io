@@ -131,7 +131,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 </table>
 
 <h2 id="expériences-professionnelles"><i class="fa fa-briefcase fa-lg"> Expériences professionnelles</i></h2>
-
+</br>
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
 <p><strong>du 18/07/2016 à aujourd’hui</strong></p>
