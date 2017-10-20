@@ -16,7 +16,7 @@
 
 <h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur JAVA / Appian / AEM / Agile</h1>
 
-<h2 id="résumé"><i class="fa fa-file-text-o fa-2x"> Résumé</i></h2>
+<h2 id="résumé"><i class="fa fa-file-text-o fa-lg"> Résumé</i></h2>
 
 <p>Développeur depuis près 8 ans dont 7 passés au sein d’Accenture Technology Solutions. </p>
 
@@ -26,7 +26,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 
 <p>Je suis titulaire du permis B depuis le 19/01/2010 et suis mobile en région parisienne.</p>
 
-<h2 id="formation"><i class="fa fa-book fa-2x"> Formation</i></h2>
+<h2 id="formation"><i class="fa fa-book fa-lg"> Formation</i></h2>
 
 <table>
 	<thead>
@@ -131,7 +131,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 	</tbody>
 </table>
 
-<h2 id="expériences-professionnelles"><i class="fa fa-briefcase fa-2x"> Expériences professionnelles</i></h2>
+<h2 id="expériences-professionnelles"><i class="fa fa-briefcase fa-lg"> Expériences professionnelles</i></h2>
 
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
