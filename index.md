@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="MonsieurZad.github.io/css/font-awesome.min.css">
+<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 
 ## Welcome to GitHub Pages
 
