@@ -13,7 +13,7 @@
 <i class="fa  fa-envelope-o">
 </i><a href="guillaume.tuis.cv@gmail.com"> guillaume.tuis.cv@gmail.com</a></p>
 
-<h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur JAVA / Appian / AEM / Agile</h1>
+<h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur Java / Appian / AEM / Agile</h1>
 
 <h2 id="résumé"><i class="fa fa-file-text-o"> Résumé</i></h2>
 
