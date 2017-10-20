@@ -1,9 +1,9 @@
 <!-- <!DOCTYPE html> -->
-<html lang="fr">
-<head>
-	<meta charset="UTF-8">
+<!-- <html lang="fr"> -->
+<!-- <head> -->
+	<!-- <meta charset="UTF-8">
 	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
-</head> 
+<!-- </head> -->
 <body>
 
 <p>
@@ -140,7 +140,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 	<thead>
 		<tr>
-		  <th><h4><i class="fa fa-file-o"> Belle Pivoine</i><h4></th>
+		  <th><h4><i class="fa fa-file-o"> Belle Pivoine</i></h4></th>
 		  <th>Période du 18/07/2016 à aujourd’hui</th>
 		</tr>
 	</thead>
