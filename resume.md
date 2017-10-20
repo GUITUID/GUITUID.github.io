@@ -134,7 +134,8 @@ Formation</i></h2>
   2005    </i></td>
   <td>BAC STT: Informatique de Gestion</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 <h2 id="expériences-professionnelles"><i class="icon-briefcase">
 Expériences professionnelles</i></h2>
