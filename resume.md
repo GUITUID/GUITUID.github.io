@@ -722,11 +722,11 @@ Langues</i></h2>
 </tr>
 <tr>
   <td>Bon Niveau:</td>
-  <td>Java JEE <meter min="0" max="100" value="70"></meter></td>
+  <td><meter min="0" max="100" value="70"></meter> Java JEE </td>
 </tr>
 <tr>
   <td></td>
-  <td>HTL (anciennement Sightly) <meter min="0" max="100" value="80"></meter></td>
+  <td><meter min="0" max="100" value="80"></meter> HTL (anciennement Sightly) </td>
 </tr>
 <tr>
   <td></td>
