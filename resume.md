@@ -197,7 +197,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-fire">
+  <th><h4><i class="fa fa-fire">
   GRDF</i></h4></th>
   <th>du 18/07/2016 à aujourd’hui</th>
 </tr>
@@ -261,7 +261,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-money">
+  <th><h4><i class="fa fa-money">
   La Banque Postale</i></h4></th>
   <th>du 10/10/2016 au 20/02/2017</th>
 </tr>
@@ -321,7 +321,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-money">
+  <th><h4><i class="fa fa-money">
   Axa</i></h4></th>
   <th>du 01/02/2016 au 30/09/2016</th>
 </tr>
@@ -415,7 +415,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-mobile">
+  <th><h4><i class="fa fa-mobile">
   Orange</i></h4></th>
   <th>du 01/12/2014 au 29/01/2016</th>
 </tr>
@@ -472,11 +472,11 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
   <td>Outils de ticketing clients</td>
 </tr>
 </tbody></table>
-<div style="page-break-before:always">&nbsp;</div> 
+<!-- <div style="page-break-before:always">&nbsp;</div> -->
 <table>
 <thead>
 <tr>
-  <th><h4><i class=" icon-tint"> Total</i></h4></th>
+  <th><h4><i class="fa fa-tint"> Total</i></h4></th>
   <th>du 28/10/2010 au 19/08/2014</th>
 </tr>
 </thead>
@@ -563,7 +563,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
   <td>Jenkins</td>
 </tr>
 </tbody></table>
-<div style="page-break-before:always">&nbsp;</div> 
+<!-- <div style="page-break-before:always">&nbsp;</div> -->
 <h3 id="mobibase"><i class="fa fa-bookmark">
 Mobibase</i></h3>
 
@@ -572,8 +572,7 @@ Mobibase</i></h3>
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-mobile">
-  Mobibase</i></h4></th>
+  <th><h4><i class="fa fa-mobile"> Mobibase</i></h4></th>
   <th>du 28/10/2010 au 19/08/2010</th>
 </tr>
 </thead>
@@ -640,8 +639,7 @@ Mobibase</i></h3>
 <table>
 <thead>
 <tr>
-  <th><h4><i class="icon-mobile">
-  Mobibase</i></h4></th>
+  <th><h4><i class="fa fa-mobile"> Mobibase</i></h4></th>
   <th>du 19/11/2009 au 19/02/2010</th>
 </tr>
 </thead>
@@ -687,7 +685,7 @@ Mobibase</i></h3>
 </tr>
 </tbody></table>
 
-<h2 id="langues"><i class=" icon-quote-right">
+<h2 id="langues"><i class="fa fa-quote-right">
 Langues</i></h2>
 
 <table>
@@ -711,8 +709,7 @@ Langues</i></h2>
 </tr>
 </tbody></table>
 
-<h2 id="compétences"><i class="icon-wrench">
-Compétences</i></h2>
+<h2 id="compétences"><i class="fa fa-wrench"> Compétences</i></h2>
 
 <table>
 <thead>
@@ -1070,9 +1067,7 @@ Compétences</i></h2>
 </br>
 
 
-<h2 id="projets-personnels"><i class="icon-puzzle">
-Projets personnels</i></h2>
-
+<h2 id="projets-personnels"><i class="fa fa-puzzle-piece"> Projets personnels</i></h2>
 <table>
 <thead>
 <tr>
@@ -1093,13 +1088,9 @@ Projets personnels</i></h2>
   <td><a href="http://bellepivoine.com/">http://bellepivoine.com/</a></td>
 </tr>
 </tbody></table>
-
 </br>
 
-
-<h2 id="centres-dintérêt"><i class="icon-tag">
-Centres d’intérêt</i></h2>
-
+<h2 id="centres-dintérêt"><i class="fa fa-tag"> Centres d’intérêt</i></h2>
 <table>
 <thead>
 <tr>
