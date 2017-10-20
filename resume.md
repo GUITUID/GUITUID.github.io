@@ -721,63 +721,63 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td>Bon Niveau:</td>
-  <td><meter min="0" max="100" value="70"></meter> Java JEE </td>
+  <td><meter min="0" max="100" value="70"></meter></td>
+  <td>Java JEE </td>
 </tr>
 <tr>
-  <td></td>
-  <td><meter min="0" max="100" value="80"></meter> HTL (anciennement Sightly) </td>
+  <td><meter min="0" max="100" value="80"></meter></td>
+  <td>HTL (anciennement Sightly) </td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="90"></meter></td>
   <td>HTML 5</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="65"></meter></td>
   <td>CSS 3</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="70"></meter></td>
   <td>PHP 5</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="75"></meter></td>
   <td>SQL</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="70"></meter></td>
   <td>XML</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="80"></meter></td>
   <td>JSON</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="65"></meter></td>
   <td>Shell</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="55"></meter></td>
   <td>Appian SAIL</td>
 </tr>
 <tr>
-  <td>Niveau intermédiaire: <meter min="0" max="100" value="50"></meter></td>
+  <td><meter min="0" max="100" value="70"></meter></td>
   <td>ASP</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="55"></meter></td>
   <td>C#</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="85"></meter></td>
   <td>VBA</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="10"></meter></td>
   <td>Ruby</td>
 </tr>
 <tr>
-  <td></td>
+  <td><meter min="0" max="100" value="25"></meter></td>
   <td>Javascript</td>
 </tr>
 <tr>
