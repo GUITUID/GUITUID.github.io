@@ -2,7 +2,9 @@
 
 ## Welcome to GitHub Pages
 
-Test font awesome: <i class="fa fa-camera-retro fa-lg"></i> fa-lg
+Test font awesome: 
+<i class="fa fa-cube"></i>
+<i class="fa fa-camera-retro fa-lg"></i> fa-lg
 
 Test resume [resume](https://MonsieurZad.github.io/resume.html)
 
