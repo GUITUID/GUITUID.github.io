@@ -721,7 +721,9 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter low="0" high="100" min="0" max="100" value="70"></meter></td>
+  <td>
+  <meter min="0" low="40" high="90" max="100" value="95"></meter>
+  <meter min="0" low="0" high="100"  max="100" value="70"></meter></td>
   <td>Java JEE </td>
 </tr>
 <tr>
