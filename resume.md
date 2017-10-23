@@ -722,63 +722,63 @@ Langues</i></h2>
 </tr>
 <tr>
   <td>
-  <meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Java JEE </td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="80"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
   <td>HTL (anciennement Sightly) </td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="90"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="90"></meter></td>
   <td>HTML 5</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>CSS 3</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>PHP 5</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="75"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="75"></meter></td>
   <td>SQL</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>XML</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="80"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
   <td>JSON</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Shell</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="55"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
   <td>Appian SAIL</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>ASP</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="55"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
   <td>C#</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="85"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>VBA</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="10"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="10"></meter></td>
   <td>Ruby</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="25"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="25"></meter></td>
   <td>Javascript</td>
 </tr>
 <tr>
@@ -786,15 +786,15 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="30"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="30"></meter></td>
   <td>Bootstrap</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="10"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="10"></meter></td>
   <td>Ruby On Rails</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="35"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="35"></meter></td>
   <td>Libgdx</td>
 </tr>
 <tr>
@@ -802,19 +802,19 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="95"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="95"></meter></td>
   <td>Windows</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Ubuntu</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Lubuntu</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>CentOS</td>
 </tr>
 <tr>
@@ -822,27 +822,27 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="95"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="95"></meter></td>
   <td>Notepad++</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="95"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="95"></meter></td>
   <td>PSPad</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="75"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="75"></meter></td>
   <td>Eclipse</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="40"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="40"></meter></td>
   <td>Atom</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="35"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="35"></meter></td>
   <td>VisualC#</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Wamp</td>
 </tr>
 <tr>
@@ -850,11 +850,11 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="50"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="50"></meter></td>
   <td>Adobe AEM</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Wordpress</td>
 </tr>
 <tr>
@@ -862,7 +862,7 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Appian</td>
 </tr>
 <tr>
@@ -870,15 +870,15 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>GIT</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="55"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
   <td>Maven</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="45"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="45"></meter></td>
   <td>Jenkins</td>
 </tr>
 <tr>
@@ -886,23 +886,23 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>MySQL</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Microsoft Access</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Toad</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Oracle SQL developer</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>HeidiSQL</td>
 </tr>
 <tr>
@@ -910,7 +910,7 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="45"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="45"></meter></td>
   <td>SonarQube</td>
 </tr>
 <tr>
@@ -918,15 +918,15 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Putty</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Terminal</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Powershell</td>
 </tr>
 <tr>
@@ -934,7 +934,7 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>HP Open View Operations</td>
 </tr>
 <tr>
@@ -942,23 +942,23 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="85"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>BMC Remedy IT Service Management</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>HP Application Lifecycle Management</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Atlassian Jira</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Atlassian Confluence</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Mantis Bug Tracker</td>
 </tr>
 <tr>
@@ -966,7 +966,7 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Oracle VM VirtualBox</td>
 </tr>
 <tr>
@@ -974,11 +974,11 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="85"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>CMM Weblogic</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Interpel</td>
 </tr>
 <tr>
@@ -986,39 +986,39 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Adobe Photoshop</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="55"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
   <td>Adobe Flash</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Adobe Dreamweaver</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Adobe Fireworks</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Adobe Illustrator</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Adobe Lightroom</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Inkscape</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="45"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="45"></meter></td>
   <td>Gimp</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>GraphicsGale</td>
 </tr>
 <tr>
@@ -1026,23 +1026,23 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>OpenOffice</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="85"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>Microsoft Office</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="85"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>Microsoft Outlook</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="75"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="75"></meter></td>
   <td>Mozilla Thunderbird</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>IBM Notes</td>
 </tr>
 <tr>
@@ -1050,19 +1050,19 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Cycle en V</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Agile</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>UML</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="75" optimum="75" value="65"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Merise</td>
 </tr>
 </tbody></table>
