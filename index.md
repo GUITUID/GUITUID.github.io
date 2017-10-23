@@ -1,13 +1,7 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 
-## Welcome to GitHub Pages
-
-Test font awesome: 
-<i class="fa fa-cube"></i>
-<i class="fa fa-camera-retro fa-lg"></i> fa-lg
-
-My resume in <i class="france flag"></i> [resume](../resume.html)
-My resume in french [resume](../resume.html)
+My resume in french [resume](../resume_fr.html)
+My resume in french [resume](../resume_en.html)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
