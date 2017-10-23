@@ -151,7 +151,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 	  <td>Résumé</td>
 	  <td>Belle Pivoine est une entreprise de création/vente d’articles de papeterie (cartes de vœux, faire parts…) fait main.<br />
 	  En tant que co-gérant avec mon épouse je participe au contact avec les clients répondants à leurs interrogations et leurs souhaits.
-	  <br> Je participe également à la production, la gestion du stock, l’administration ainsi qu’à l’organisation des salons (administration, logistique…).</td>
+	  <br /> Je participe également à la production, la gestion du stock, l’administration ainsi qu’à l’organisation des salons (administration, logistique…).</td>
 	</tr>
 	<tr>
 	  <td>Missions</td>
@@ -210,8 +210,8 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 </tr>
 <tr>
   <td>Résumé</td>
-  <td>RACCOPILOT est une application permettant de piloter le raccordement au gaz des acteurs du marché public.<br>
-  Elle permet de suivre une affaire de raccordement de bout en bout, <br>depuis la demande client jusqu’à la mise en service en passant par la mise en gaz.<br>
+  <td>RACCOPILOT est une application permettant de piloter le raccordement au gaz des acteurs du marché public.<br />
+  Elle permet de suivre une affaire de raccordement de bout en bout, <br />depuis la demande client jusqu’à la mise en service en passant par la mise en gaz.<br />
   Elle permet également de consolider des affaires provenant de plusieurs SI pour les unifier au sein de RACCOPILOT.</td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 <tr>
   <td>Résumé</td>
   <td>Le projet Cap Client consiste en l’élaboration d’un outil de suivi des clients à destination des agents de la banque postale.
-  <br>Cet outil leur fournissant de nombreuses informations sur les produits détenus par les clients et le profil de ceux-ci, <br>
+  <br />Cet outil leur fournissant de nombreuses informations sur les produits détenus par les clients et le profil de ceux-ci, <br />
   offrant ainsi aux agents la possibilité de proposer de meilleurs produits plus en rapport avec la situation des clients.</td>
 </tr>
 <tr>
@@ -334,11 +334,11 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 </tr>
 <tr>
   <td>Résumé</td>
-  <td>Participation à la création de l’Espace Client Convergé d’Axa France consistant, au sein d’un même espace, </br>
+  <td>Participation à la création de l’Espace Client Convergé d’Axa France consistant, au sein d’un même espace, <br />
   à donner la possibilité au client d’accéder et de gérer à la fois ses produits banque et ses produits assurance. 
-  <br>Une partie permet de faire s’afficher des offres promotionnelles a des clients remplissant certains critères lorsqu’ils se connectent à l’espace </br>
+  <br />Une partie permet de faire s’afficher des offres promotionnelles a des clients remplissant certains critères lorsqu’ils se connectent à l’espace <br />
   (ex : si le client détient un produit banque particulier lui proposer un tarif préférentiel sur un produit d’assurance). 
-  <br>Cet espace fournit également des indicateurs aux agences leur permettant un meilleur suivi des affaires.</td>
+  <br />Cet espace fournit également des indicateurs aux agences leur permettant un meilleur suivi des affaires.</td>
 </tr>
 <tr>
   <td>Missions</td>
@@ -428,10 +428,10 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
 </tr>
 <tr>
   <td>Résumé</td>
-  <td>COME (Convergence Marché Entreprises) est un projet initié en 2012, un nouveau SI dédié aux offres mobiles et convergentes, <br>
+  <td>COME (Convergence Marché Entreprises) est un projet initié en 2012, un nouveau SI dédié aux offres mobiles et convergentes, <br />
   pour le périmètre Entreprise et ses canaux de vente, avec potentiellement 18 000 utilisateurs.
-  <br>Permettant de couvrir le périmètre Entreprises et Grands Comptes.
-  <br>Mon rôle au sein de ce projet était de gérer la bonne affectation des defects aux bonne équipes </br>(analyse de la root cause et fourniture d’un workaround avec l’aide des équipes techniques concernées).</td>
+  <br />Permettant de couvrir le périmètre Entreprises et Grands Comptes.
+  <br />Mon rôle au sein de ce projet était de gérer la bonne affectation des defects aux bonne équipes <br />(analyse de la root cause et fourniture d’un workaround avec l’aide des équipes techniques concernées).</td>
 </tr>
 <tr>
   <td>Missions</td>
@@ -490,9 +490,9 @@ sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez
   <td>Résumé</td>
   <td>
   Projet de centralisation de la trésorerie du groupe TOTAL ainsi que toutes ses filiales au sein d’une même application.
-  <br>Notre équipe était chargée d’assurer le support applicatif de niveau 2 et 3 
-  </br>(ex : analyse de cause et apport de solution au blocage d’une transaction entre TOTAL et les banques).
-  <br>Amélioration des procédures de support et des outils de la plateforme </br>
+  <br />Notre équipe était chargée d’assurer le support applicatif de niveau 2 et 3 
+  <br />(ex : analyse de cause et apport de solution au blocage d’une transaction entre TOTAL et les banques).
+  <br />Amélioration des procédures de support et des outils de la plateforme <br />
   (scripts de génération de formats bancaires, prise en compte de nouvelles normes de communication bancaire…)
   </td>
 </tr>
@@ -584,9 +584,9 @@ Mobibase</i></h3>
 </tr>
 <tr>
   <td>Résumé</td>
-  <td>Mon rôle consistait à intégrer les nouveaux contenus reçus des ayants droits au sein de la plateforme <br>
+  <td>Mon rôle consistait à intégrer les nouveaux contenus reçus des ayants droits au sein de la plateforme <br />
   sur laquelle des opérateurs de téléphonie mobile venaient passer commande (3com, Vodafone, Orange…).
-  <br>Amélioration des outils d’intégration de contenus (scripts d’encodages audio/vidéo) et d’envoi de commande.</td>
+  <br />Amélioration des outils d’intégration de contenus (scripts d’encodages audio/vidéo) et d’envoi de commande.</td>
 </tr>
 <tr>
   <td>Missions</td>
