@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
-My resume in <i class="flag france">[](../resume_fr.html)</i>&nbsp;
+My resume in [<i class="flag france"></i>](../resume_fr.html)&nbsp;
 
 My resume in <i class="flag united kingdom">[](../resume_fr.html)</i>
 
