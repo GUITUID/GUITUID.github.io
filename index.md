@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
-# Curiculum vitae: 
+## Curiculum vitae: 
 <br />
 My resume in [french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
 <br />
