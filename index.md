@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
- <img src="../images/zadwarf.png" alt="MonsieurZad" height="15" width="15"> 
+ <img src="../images/zadwarf.png" alt="MonsieurZad" height="45" width="45"> 
 ![MonsieurZad](../images/zadwarf.png)
 
 Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
