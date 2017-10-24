@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
+![GitHub Logo](/images/logo.png)
+
 Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
 
 ## 1. Curiculum vitae: 
@@ -13,13 +15,15 @@ Welcome to MonsieurZad GitHub page, here you can find more informations about me
 
 ### Zeroquest
 [Zeroquest](https://github.com/MonsieurZad/Zeroquest) is a
-Heroquest like textual game, it will be updated with graphics contents later.
-For now I'm working alone on this project as it allows me to learn a lot. 
+Heroquest like textual game, it will be updated with graphics contents later. <br />
+For now I'm working alone on this project as it allows me to learn a lot. <br />
 Next step I will write a free tutorial (like a huge PDF book).<br />
 
 ### Snake
 [Snake](https://github.com/MonsieurZad/Snake) is a Libgdx Snake Game from the PacktPub book "LibGDX Game Development By Example"
-Link : https://www.packtpub.com/game-development/libgdx-game-development-example
+<br />Link : https://www.packtpub.com/game-development/libgdx-game-development-example <br />
+This game will be updated with some bonuses (like super apples, speed bonuses...)
+
 
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
