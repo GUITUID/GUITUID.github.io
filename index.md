@@ -7,9 +7,9 @@
 
 ## 1. Curiculum vitae: 
 
-[french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
+[French](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
 <br />
-[english](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
+[English](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
 
 ## 2. Projects:
 
