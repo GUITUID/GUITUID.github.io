@@ -3,9 +3,9 @@
 
 ## Curiculum vitae: 
 <br />
-My resume in [french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
+[french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
 <br />
-My resume in [english](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
+[english](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
