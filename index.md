@@ -12,10 +12,14 @@ Welcome to MonsieurZad GitHub page, here you can find more informations about me
 ## 2. Projects:
 
 ### Zeroquest
-[Zeroquest](https://github.com/MonsieurZad/Zeroquest)
+[Zeroquest](https://github.com/MonsieurZad/Zeroquest) is a
 Heroquest like textual game, it will be updated with graphics contents later.
 For now I'm working alone on this project as it allows me to learn a lot. 
-Next step I will write a free tutorial (like a huge PDF book).
+Next step I will write a free tutorial (like a huge PDF book).<br />
+
+### Snake
+[Snake](https://github.com/MonsieurZad/Snake) is a Libgdx Snake Game from the PacktPub book "LibGDX Game Development By Example"
+Link : https://www.packtpub.com/game-development/libgdx-game-development-example
 
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
