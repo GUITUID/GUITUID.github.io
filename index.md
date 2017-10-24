@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
-![GitHub Logo](/images/logo.png)
+![MonsieurZad](../images/zadwarf.png)
 
 Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
 
