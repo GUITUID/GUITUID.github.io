@@ -130,6 +130,8 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 	</tbody>
 </table>
 
+<div style="page-break-before:always">&nbsp;</div>
+
 <h2 id="expériences-professionnelles"><i class="fa fa-briefcase"> Expériences professionnelles</i></h2>
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
@@ -189,6 +191,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 </table>
 
 <div style="page-break-before:always">&nbsp;</div>
+
 <h3 id="accenture-technology-solutions"><i class="fa fa-bookmark"> Accenture Technology Solutions</i></h3>
 <p><b>Période du 28/10/2010 à aujourd’hui</b></p>
 
