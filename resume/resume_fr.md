@@ -693,16 +693,19 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td>Italien</td>
-  <td>Bon niveau</td>
+  <td>Italien <i class="flag italy"></i></td>
+  <meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter>
+  <!-- <td>Bon niveau</td> -->
 </tr>
 <tr>
-  <td>Anglais</td>
-  <td>Bon niveau</td>
+  <td>Anglais <i class="flag united kingdom"></i></td>
+  <meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter>
+  <!-- <td>Bon niveau</td> -->
 </tr>
 <tr>
-  <td>Indonésien</td>
-  <td>Débutant</td>
+  <td>Indonésien <i class="flag indonesia"></i></td>
+  <meter min="0" max="100" low="25" high="65" optimum="100" value="15"></meter>
+  <!-- <td>Débutant</td> -->
 </tr>
 </tbody></table>
 
