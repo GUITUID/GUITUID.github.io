@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
-## Curiculum vitae: 
-<br />
+Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
+
+1. ## Curiculum vitae: 
+
 [french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
 <br />
 [english](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
