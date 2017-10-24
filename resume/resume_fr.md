@@ -133,7 +133,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 <h2 id="expériences-professionnelles"><i class="fa fa-briefcase"> Expériences professionnelles</i></h2>
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
-<p><strong>du 18/07/2016 à aujourd’hui</strong></p>
+<p><b>du 18/07/2016 à aujourd’hui</b></p>
 
 <table>
 	<thead>
@@ -190,7 +190,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 
 <div style="page-break-before:always">&nbsp;</div>
 <h3 id="accenture-technology-solutions"><i class="fa fa-bookmark"> Accenture Technology Solutions</i></h3>
-<p><strong>Période du 28/10/2010 à aujourd’hui</strong></p>
+<p><b>Période du 28/10/2010 à aujourd’hui</b></p>
 
 <table>
 <thead>
@@ -565,7 +565,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 <h3 id="mobibase"><i class="fa fa-bookmark">
 Mobibase</i></h3>
 
-<p><strong>Période du 19/11/2009 au 31/08/2010</strong></p>
+<p><b>Période du 19/11/2009 au 31/08/2010</b></p>
 
 <table>
 <thead>
@@ -720,7 +720,7 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td><strong>Langages et scripts</strong></td>
+  <td><b>Langages et scripts</b></td>
   <td></td>
 </tr>
 <tr>
@@ -785,7 +785,7 @@ Langues</i></h2>
   <td>Ruby</td>
 </tr>
 <tr>
-  <td><strong>Frameworks</strong></td>
+  <td><b>Frameworks</b></td>
   <td></td>
 </tr>
 <tr>
@@ -801,7 +801,7 @@ Langues</i></h2>
   <td>Ruby On Rails</td>
 </tr>
 <tr>
-  <td><strong>OS</strong></td>
+  <td><b>OS</b></td>
   <td></td>
 </tr>
 <tr>
@@ -821,7 +821,7 @@ Langues</i></h2>
   <td>CentOS</td>
 </tr>
 <tr>
-  <td><strong>Environnement de développement</strong></td>
+  <td><b>Environnement de développement</b></td>
   <td></td>
 </tr>
 <tr>
@@ -849,7 +849,7 @@ Langues</i></h2>
   <td>VisualC#</td>
 </tr>
 <tr>
-  <td><strong>CMS</strong></td>
+  <td><b>CMS</b></td>
   <td></td>
 </tr>
 <tr>
@@ -861,7 +861,7 @@ Langues</i></h2>
   <td>Adobe AEM</td>
 </tr>
 <tr>
-  <td><strong>BPM</strong></td>
+  <td><b>BPM</b></td>
   <td></td>
 </tr>
 <tr>
@@ -869,7 +869,7 @@ Langues</i></h2>
   <td>Appian</td>
 </tr>
 <tr>
-  <td><strong>Gestionnaire de version - Intégration continue</strong></td>
+  <td><b>Gestionnaire de version - Intégration continue</b></td>
   <td></td>
 </tr>
 <tr>
@@ -885,7 +885,7 @@ Langues</i></h2>
   <td>Jenkins</td>
 </tr>
 <tr>
-  <td><strong>Gestionnaire de base de données</strong></td>
+  <td><b>Gestionnaire de base de données</b></td>
   <td></td>
 </tr>
 <tr>
@@ -909,7 +909,7 @@ Langues</i></h2>
   <td>Microsoft Access</td>
 </tr>
 <tr>
-  <td><strong>Mesure de qualité du code source</strong></td>
+  <td><b>Mesure de qualité du code source</b></td>
   <td></td>
 </tr>
 <tr>
@@ -917,7 +917,7 @@ Langues</i></h2>
   <td>SonarQube</td>
 </tr>
 <tr>
-  <td><strong>Terminal</strong></td>
+  <td><b>Terminal</b></td>
   <td></td>
 </tr>
 <tr>
@@ -933,7 +933,7 @@ Langues</i></h2>
   <td>Powershell</td>
 </tr>
 <tr>
-  <td><strong>Supervision</strong></td>
+  <td><b>Supervision</b></td>
   <td></td>
 </tr>
 <tr>
@@ -941,7 +941,7 @@ Langues</i></h2>
   <td>HP Open View Operations</td>
 </tr>
 <tr>
-  <td><strong>Support - Ticketing - Suivi de projet - Wiki - Test</strong></td>
+  <td><b>Support - Ticketing - Suivi de projet - Wiki - Test</b></td>
   <td></td>
 </tr>
 <tr>
@@ -965,7 +965,7 @@ Langues</i></h2>
   <td>Mantis Bug Tracker</td>
 </tr>
 <tr>
-  <td><strong>Machine virtuelle</strong></td>
+  <td><b>Machine virtuelle</b></td>
   <td></td>
 </tr>
 <tr>
@@ -973,7 +973,7 @@ Langues</i></h2>
   <td>Oracle VM VirtualBox</td>
 </tr>
 <tr>
-  <td><strong>Communication bancaire</strong></td>
+  <td><b>Communication bancaire</b></td>
   <td></td>
 </tr>
 <tr>
@@ -985,7 +985,7 @@ Langues</i></h2>
   <td>Interpel</td>
 </tr>
 <tr>
-  <td><strong>Graphisme</strong></td>
+  <td><b>Graphisme</b></td>
   <td></td>
 </tr>
 <tr>
@@ -1025,7 +1025,7 @@ Langues</i></h2>
   <td>Gimp</td>
 </tr>
 <tr>
-  <td><strong>Bureautique</strong></td>
+  <td><b>Bureautique</b></td>
   <td></td>
 </tr>
 <tr>
@@ -1049,7 +1049,7 @@ Langues</i></h2>
   <td>OpenOffice</td>
 </tr>
 <tr>
-  <td><strong>Méthodes</strong></td>
+  <td><b>Méthodes</b></td>
   <td></td>
 </tr>
 <tr>
@@ -1079,15 +1079,15 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td><strong>Blog</strong></td>
+  <td><b>Blog</b></td>
   <td><a href="http://monsieurzad.blogspot.fr">http://monsieurzad.blogspot.fr/</a></td>
 </tr>
 <tr>
-  <td><strong>GitHub</strong></td>
+  <td><b>GitHub</b></td>
   <td><a href="https://github.com/MonsieurZad">https://github.com/MonsieurZad</a></td>
 </tr>
 <tr>
-  <td><strong>BellePivoine</strong></td>
+  <td><b>BellePivoine</b></td>
   <td><a href="http://bellepivoine.com/">http://bellepivoine.com/</a></td>
 </tr>
 </tbody></table>
