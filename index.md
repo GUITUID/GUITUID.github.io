@@ -3,20 +3,7 @@
 
 |   | |
 | ------------- | ------------- |
-| ![MonsieurZad](../images/zadwarf.png) | Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects. <br /> Actually working as a "consultant" as bread and butter work. Working on my Libgdx games when I have spare time.  |
-
-<table>
-  <tr>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-</table>
-<p> </p>
-<!-- ![MonsieurZad](../images/zadwarf.png) -->
+| ![MonsieurZad](../images/zadwarf.png) | Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects. <br /><br /> Actually working as a "consultant" as bread and butter work. Working on my Libgdx games when I have spare time.  |
 
 ## 1. Curiculum vitae: 
 
