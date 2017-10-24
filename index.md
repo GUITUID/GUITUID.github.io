@@ -11,10 +11,11 @@ Welcome to MonsieurZad GitHub page, here you can find more informations about me
 
 ## 2. Projects:
 
-### [Zeroquest](https://github.com/MonsieurZad/Zeroquest)
- Description: Heroquest like textual game, it will be updated with graphics contents later.
- For now I'm working alone on this project as it allows me to learn a lot. 
- Next step I will write a free tutorial (like a huge PDF book).
+### Zeroquest
+[Zeroquest](https://github.com/MonsieurZad/Zeroquest)
+Heroquest like textual game, it will be updated with graphics contents later.
+For now I'm working alone on this project as it allows me to learn a lot. 
+Next step I will write a free tutorial (like a huge PDF book).
 
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
