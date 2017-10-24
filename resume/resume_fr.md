@@ -228,7 +228,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 </tr>
 <tr>
   <td>Outils / Technologies utilisés</td>
-  <td>Appian - 17.2</td>
+  <td>Appian - 17.3</td>
 </tr>
 <tr>
   <td></td>
