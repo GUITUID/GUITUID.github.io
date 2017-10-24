@@ -3,7 +3,7 @@
 
 |   | |
 | ------------- | ------------- |
-| <img src="../images/zadwarf.png" alt="MonsieurZad" height="125" width="125" align="left" margin-right:15"></img>  | Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects. <br /> Actually working as a "consultant" as bread and butter work. Working on my Libgdx games when I have spare time.  |
+| ![MonsieurZad](../images/zadwarf.png) | Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects. <br /> Actually working as a "consultant" as bread and butter work. Working on my Libgdx games when I have spare time.  |
 
 <table>
   <tr>
