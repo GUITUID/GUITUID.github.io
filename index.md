@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
  <img src="../images/zadwarf.png" alt="MonsieurZad" height="125" width="125"> 
-![MonsieurZad](../images/zadwarf.png)
+<!-- ![MonsieurZad](../images/zadwarf.png) -->
 
 Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
 
