@@ -9,6 +9,14 @@ Welcome to MonsieurZad GitHub page, here you can find more informations about me
 <br />
 [english](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
 
+## 2. Projects:
+
+### [Zeroquest](https://github.com/MonsieurZad/Zeroquest)
+ Description: Heroquest like textual game, it will be updated with graphics contents later.
+ For now I'm working alone on this project as it allows me to learn a lot. 
+ Next step I will write a free tutorial (like a huge PDF book).
+
+
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
