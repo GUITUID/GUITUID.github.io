@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<meta charset="UTF-8">
 </head>
 <body>
 
@@ -719,7 +720,7 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td>### Langages et scripts</td>
+  <td><strong>Langages et scripts</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -784,7 +785,7 @@ Langues</i></h2>
   <td>Ruby</td>
 </tr>
 <tr>
-  <td>### Frameworks</td>
+  <td><strong>Frameworks</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -800,7 +801,7 @@ Langues</i></h2>
   <td>Ruby On Rails</td>
 </tr>
 <tr>
-  <td>### OS</td>
+  <td><strong>OS</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -820,7 +821,7 @@ Langues</i></h2>
   <td>CentOS</td>
 </tr>
 <tr>
-  <td>### Environnement de développement</td>
+  <td><strong>Environnement de développement</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -848,7 +849,7 @@ Langues</i></h2>
   <td>VisualC#</td>
 </tr>
 <tr>
-  <td>### CMS</td>
+  <td><strong>CMS</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -868,7 +869,7 @@ Langues</i></h2>
   <td>Appian</td>
 </tr>
 <tr>
-  <td>### Gestionnaire de version - Intégration continue</td>
+  <td><strong>Gestionnaire de version - Intégration continue</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -884,7 +885,7 @@ Langues</i></h2>
   <td>Jenkins</td>
 </tr>
 <tr>
-  <td>### Gestionnaire de base de données</td>
+  <td><strong>Gestionnaire de base de données</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -916,7 +917,7 @@ Langues</i></h2>
   <td>SonarQube</td>
 </tr>
 <tr>
-  <td>### Terminal</td>
+  <td><strong>Terminal</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -932,7 +933,7 @@ Langues</i></h2>
   <td>Powershell</td>
 </tr>
 <tr>
-  <td>### Supervision</td>
+  <td><strong>Supervision</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -940,7 +941,7 @@ Langues</i></h2>
   <td>HP Open View Operations</td>
 </tr>
 <tr>
-  <td>### Support - Ticketing - Suivi de projet - Wiki - Test</td>
+  <td><strong>Support - Ticketing - Suivi de projet - Wiki - Test</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -964,7 +965,7 @@ Langues</i></h2>
   <td>Mantis Bug Tracker</td>
 </tr>
 <tr>
-  <td>### Machine virtuelle</td>
+  <td><strong>Machine virtuelle</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -972,7 +973,7 @@ Langues</i></h2>
   <td>Oracle VM VirtualBox</td>
 </tr>
 <tr>
-  <td>### Communication bancaire</td>
+  <td><strong>Communication bancaire</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -984,7 +985,7 @@ Langues</i></h2>
   <td>Interpel</td>
 </tr>
 <tr>
-  <td>### Graphisme</td>
+  <td><strong>Graphisme</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -1024,7 +1025,7 @@ Langues</i></h2>
   <td>Gimp</td>
 </tr>
 <tr>
-  <td>### Bureautique</td>
+  <td><strong>Bureautique</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -1048,7 +1049,7 @@ Langues</i></h2>
   <td>OpenOffice</td>
 </tr>
 <tr>
-  <td>### Méthodes</td>
+  <td><strong>Méthodes</strong></td>
   <td></td>
 </tr>
 <tr>
