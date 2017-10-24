@@ -877,7 +877,6 @@ Langues</i></h2>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Appian</td>
 </tr>
-	<div style="page-break-before:always">&nbsp;</div>
 <tr>
   <td><b>Gestionnaire de version - Intégration continue</b></td>
   <td></td>
