@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
+<meta charset="UTF-8">
+
 |   | |
 | ------------- | ------------- |
 | ![MonsieurZad](../images/zadwarf.png) | Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects. <br /><br /> Actually working as a "consultant" as bread and butter work. Working on my Libgdx games when I have spare time.  |
