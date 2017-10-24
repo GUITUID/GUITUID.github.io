@@ -1,10 +1,8 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
- <img src="../images/zadwarf.png" alt="MonsieurZad" height="125" width="125"> 
+ <img src="../images/zadwarf.png" alt="MonsieurZad" height="125" width="125">Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
 <!-- ![MonsieurZad](../images/zadwarf.png) -->
-
-Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
 
 ## 1. Curiculum vitae: 
 
