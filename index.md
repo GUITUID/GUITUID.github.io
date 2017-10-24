@@ -24,7 +24,8 @@ Next step I will write a free tutorial (like a huge PDF book).<br />
 <br />Link : https://www.packtpub.com/game-development/libgdx-game-development-example <br />
 This game will be updated with some bonuses (like super apples, speed bonuses...)
 
-
+### Libgdx-demo
+[Libgdx-demo](https://github.com/MonsieurZad/Libgdx-demo) is a demo project from Learning Libgdx Game Development available at [PacktPub](https://www.packtpub.com/)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
