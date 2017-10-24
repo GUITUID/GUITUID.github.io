@@ -3,7 +3,7 @@
 
 Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.
 
-1. ## Curiculum vitae: 
+## 1. Curiculum vitae: 
 
 [french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
 <br />
