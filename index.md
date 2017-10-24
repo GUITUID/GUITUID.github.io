@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../UI-Flag-master/flag.css">
 
-My resume in [french](../resume_fr.html)[<i class="flag france"></i>](../resume_fr.html)
+My resume in [french](../resume_fr.html) [<i class="flag france"></i>](../resume_fr.html)
 <br />
-My resume in [english](../resume_en.html)<i class="flag united kingdom">[](../resume_en.html)</i>
+My resume in [english](../resume_en.html) [<i class="flag united kingdom"></i>](../resume_en.html)
 
 You can use the [editor on GitHub](https://github.com/MonsieurZad/MonsieurZad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
