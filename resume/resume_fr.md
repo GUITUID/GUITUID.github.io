@@ -958,16 +958,16 @@ Langues</i></h2>
   <td>BMC Remedy IT Service Management</td>
 </tr>
 <tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
+  <td>Atlassian Confluence</td>
+</tr>
+<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>HP Application Lifecycle Management</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Atlassian Jira</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
-  <td>Atlassian Confluence</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
