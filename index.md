@@ -23,7 +23,7 @@ Next step I will write a free tutorial (like a huge PDF book).<br />
 
 ### Snake
 [Snake](https://github.com/MonsieurZad/Snake) is a Libgdx Snake Game from the PacktPub book "LibGDX Game Development By Example"
-<br />Link : (https://www.packtpub.com/game-development/libgdx-game-development-example) <br />
+<br />Link : [](https://www.packtpub.com/game-development/libgdx-game-development-example) <br />
 This game will be updated with some bonuses (like super apples, speed bonuses...)
 
 ### Libgdx-demo
