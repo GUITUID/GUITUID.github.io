@@ -718,7 +718,7 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td><strong>Langages et scripts</strong></td>
+  <td><strong>Langages de programation, scripts</strong></td>
   <td></td>
 </tr>
 <tr>
