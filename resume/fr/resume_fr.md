@@ -201,7 +201,7 @@ J&apos;ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa
 <tr>
   <th><h3><i class="fa fa-fire">
   GRDF</i></h3></th>
-  <th>du 18/07/2016 &agrave; aujourd&apos;hui</th>
+  <th>du 18/07/2016 au 25/10/2017</th>
 </tr>
 </thead>
 <tbody><tr>
