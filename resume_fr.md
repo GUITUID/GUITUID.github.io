@@ -722,24 +722,20 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <td>Java JEE </td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="90"></meter></td>
+  <td>HTML 5</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
+  <td>VBA</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
   <td>HTL (anciennement Sightly) </td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="90"></meter></td>
-  <td>HTML 5</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>CSS 3</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <td>PHP 5</td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
+  <td>JSON</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="75"></meter></td>
@@ -747,39 +743,43 @@ Langues</i></h2>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td>Java JEE </td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td>PHP 5</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>XML</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
-  <td>JSON</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Shell</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
-  <td>Appian SAIL</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>ASP</td>
 </tr>
 <tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Shell</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>CSS 3</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
+  <td>Appian SAIL</td>
+</tr>
+<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
   <td>C#</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
-  <td>VBA</td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="25"></meter></td>
+  <td>Javascript</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="10"></meter></td>
   <td>Ruby</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="25"></meter></td>
-  <td>Javascript</td>
 </tr>
 <tr>
   <td><strong>Frameworks</strong></td>
@@ -790,12 +790,12 @@ Langues</i></h2>
   <td>Bootstrap</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="10"></meter></td>
-  <td>Ruby On Rails</td>
-</tr>
-<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="35"></meter></td>
   <td>Libgdx</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="10"></meter></td>
+  <td>Ruby On Rails</td>
 </tr>
 <tr>
   <td><strong>OS</strong></td>
@@ -834,6 +834,14 @@ Langues</i></h2>
   <td>Eclipse</td>
 </tr>
 <tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Wamp</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Xampp</td>
+</tr>
+<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="40"></meter></td>
   <td>Atom</td>
 </tr>
@@ -842,20 +850,16 @@ Langues</i></h2>
   <td>VisualC#</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Wamp</td>
-</tr>
-<tr>
   <td><strong>CMS</strong></td>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="50"></meter></td>
-  <td>Adobe AEM</td>
-</tr>
-<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Wordpress</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="50"></meter></td>
+  <td>Adobe AEM</td>
 </tr>
 <tr>
   <td><strong>BPM</strong></td>
@@ -890,10 +894,6 @@ Langues</i></h2>
   <td>MySQL</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Microsoft Access</td>
-</tr>
-<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Toad</td>
 </tr>
@@ -904,6 +904,10 @@ Langues</i></h2>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>HeidiSQL</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Microsoft Access</td>
 </tr>
 <tr>
   <td><strong>Mesure de qualité du code source</strong></td>
@@ -986,22 +990,6 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Adobe Photoshop</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
-  <td>Adobe Flash</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Adobe Dreamweaver</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Adobe Fireworks</td>
-</tr>
-<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Adobe Illustrator</td>
 </tr>
@@ -1010,16 +998,32 @@ Langues</i></h2>
   <td>Adobe Lightroom</td>
 </tr>
 <tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td>GraphicsGale</td>
+</tr>
+<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Inkscape</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="45"></meter></td>
-  <td>Gimp</td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Adobe Photoshop</td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <td>GraphicsGale</td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Adobe Fireworks</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Adobe Dreamweaver</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
+  <td>Adobe Flash</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="45"></meter></td>
+  <td>Gimp</td>
 </tr>
 <tr>
   <td><strong>Bureautique</strong></td>
