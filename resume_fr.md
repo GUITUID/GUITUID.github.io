@@ -1030,10 +1030,6 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>OpenOffice</td>
-</tr>
-<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>Microsoft Office</td>
 </tr>
@@ -1048,6 +1044,10 @@ Langues</i></h2>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>IBM Notes</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>OpenOffice</td>
 </tr>
 <tr>
   <td><strong>Méthodes</strong></td>
