@@ -722,9 +722,7 @@ Langues</i></h2>
   <td></td>
 </tr>
 <tr>
-  <td>
-	  <progress id="avancement" value="70" max="100"></progress>
-  <meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Java JEE </td>
 </tr>
 <tr>
