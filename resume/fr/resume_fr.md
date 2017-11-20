@@ -17,7 +17,7 @@
 
 <h2 id="résumé"><i class="fa fa-file-text-o"> Résumé</i></h2>
 
-<p>Développeur depuis près 8 ans dont 7 passés au sein d’Accenture Technology Solutions. </p>
+<p>Développeur depuis près 8 ans dont 7 pass&eacute;s au sein d’Accenture Technology Solutions. </p>
 
 <p>J’ai eu l’opportunité de travailler avec de nombreuses technologies et méthodologies. 
 J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, La Banque Postale, GRDF) me formant, par la même occasion, sur diverses problématiques fonctionnelles (mise en place de la norme SEPA chez Total, processus de raccordement au gaz chez GRDF…).</p>
