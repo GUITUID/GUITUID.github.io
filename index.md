@@ -9,7 +9,7 @@
 
 ## 1. Curiculum vitae: 
 
-[French](../resume_fr.html) [<i class="flag france"></i>](../resume/resume_fr.html) - [Printable](../resume/resume_fr.md)
+[French](../resume/fr/resume_fr.html) [<i class="flag france"></i>](../resume/fr/resume_fr.html) - [Printable](../resume/fr/resume_fr.md)
 <br />
 [English](../resume_en.html) [<i class="flag united kingdom"></i>](../resume/resume_en.html) - [Printable](../resume/resume_en.md)
 
