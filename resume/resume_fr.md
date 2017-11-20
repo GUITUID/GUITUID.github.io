@@ -2,7 +2,6 @@
 <html lang="fr">
 <head>
 	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
-	<meta charset="UTF-8">
 </head>
 <body>
 
@@ -130,12 +129,10 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 	</tbody>
 </table>
 
-<div style="page-break-before:always">&nbsp;</div>
-
 <h2 id="expériences-professionnelles"><i class="fa fa-briefcase"> Expériences professionnelles</i></h2>
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
-<p><b>du 18/07/2016 à aujourd’hui</b></p>
+<p><strong>du 18/07/2016 à aujourd’hui</strong></p>
 
 <table>
 	<thead>
@@ -191,9 +188,8 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 </table>
 
 <div style="page-break-before:always">&nbsp;</div>
-
 <h3 id="accenture-technology-solutions"><i class="fa fa-bookmark"> Accenture Technology Solutions</i></h3>
-<p><b>Période du 28/10/2010 à aujourd’hui</b></p>
+<p><strong>Période du 28/10/2010 à aujourd’hui</strong></p>
 
 <table>
 <thead>
@@ -231,7 +227,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 </tr>
 <tr>
   <td>Outils / Technologies utilisés</td>
-  <td>Appian - 17.3</td>
+  <td>Appian - 17.2</td>
 </tr>
 <tr>
   <td></td>
@@ -318,8 +314,6 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
   <td>Notepad ++</td>
 </tr>
 </tbody></table>
-
-<div style="page-break-before:always">&nbsp;</div>
 
 <table>
 <thead>
@@ -415,8 +409,6 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 </tr>
 </tbody></table>
 
-<div style="page-break-before:always">&nbsp;</div>
-
 <table>
 <thead>
 <tr>
@@ -477,7 +469,7 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
   <td>Outils de ticketing clients</td>
 </tr>
 </tbody></table>
-<div style="page-break-before:always">&nbsp;</div>
+<!-- <div style="page-break-before:always">&nbsp;</div> -->
 <table>
 <thead>
 <tr>
@@ -568,11 +560,11 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
   <td>Jenkins</td>
 </tr>
 </tbody></table>
-<div style="page-break-before:always">&nbsp;</div>
+<!-- <div style="page-break-before:always">&nbsp;</div> -->
 <h3 id="mobibase"><i class="fa fa-bookmark">
 Mobibase</i></h3>
 
-<p><b>Période du 19/11/2009 au 31/08/2010</b></p>
+<p><strong>Période du 19/11/2009 au 31/08/2010</strong></p>
 
 <table>
 <thead>
@@ -690,8 +682,6 @@ Mobibase</i></h3>
 </tr>
 </tbody></table>
 
-<div style="page-break-before:always">&nbsp;</div>
-
 <h2 id="langues"><i class="fa fa-quote-right">
 Langues</i></h2>
 
@@ -703,19 +693,16 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td>Italien <i class="flag italy"></i></td>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <!-- <td>Bon niveau</td> -->
+  <td>Italien</td>
+  <td>Bon niveau</td>
 </tr>
 <tr>
-  <td>Anglais <i class="flag united kingdom"></i></td>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <!-- <td>Bon niveau</td> -->
+  <td>Anglais</td>
+  <td>Bon niveau</td>
 </tr>
 <tr>
-  <td>Indonésien <i class="flag indonesia"></i></td>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="15"></meter></td>
-  <!-- <td>Débutant</td> -->
+  <td>Indonésien</td>
+  <td>Débutant</td>
 </tr>
 </tbody></table>
 
@@ -729,7 +716,7 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td><b>Langages et scripts</b></td>
+  <td><strong>Langages de programation, scripts</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -753,8 +740,7 @@ Langues</i></h2>
   <td>SQL</td>
 </tr>
 <tr>
-  <td>
-  <meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Java JEE </td>
 </tr>
 <tr>
@@ -763,19 +749,19 @@ Langues</i></h2>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <td>ASP</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
-  <td>CSS 3</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>XML</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td>ASP</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
   <td>Shell</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>CSS 3</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
@@ -794,23 +780,23 @@ Langues</i></h2>
   <td>Ruby</td>
 </tr>
 <tr>
-  <td><b>Frameworks</b></td>
+  <td><strong>Frameworks</strong></td>
   <td></td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="35"></meter></td>
-  <td>Libgdx</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="30"></meter></td>
   <td>Bootstrap</td>
 </tr>
 <tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="35"></meter></td>
+  <td>Libgdx</td>
+</tr>
+<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="10"></meter></td>
   <td>Ruby On Rails</td>
 </tr>
 <tr>
-  <td><b>OS</b></td>
+  <td><strong>OS</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -830,7 +816,7 @@ Langues</i></h2>
   <td>CentOS</td>
 </tr>
 <tr>
-  <td><b>Environnement de développement</b></td>
+  <td><strong>Environnement de développement</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -850,6 +836,10 @@ Langues</i></h2>
   <td>Wamp</td>
 </tr>
 <tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
+  <td>Xampp</td>
+</tr>
+<tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="40"></meter></td>
   <td>Atom</td>
 </tr>
@@ -858,7 +848,7 @@ Langues</i></h2>
   <td>VisualC#</td>
 </tr>
 <tr>
-  <td><b>CMS</b></td>
+  <td><strong>CMS</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -870,7 +860,7 @@ Langues</i></h2>
   <td>Adobe AEM</td>
 </tr>
 <tr>
-  <td><b>BPM</b></td>
+  <td><strong>BPM</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -878,7 +868,7 @@ Langues</i></h2>
   <td>Appian</td>
 </tr>
 <tr>
-  <td><b>Gestionnaire de version - Intégration continue</b></td>
+  <td><strong>Gestionnaire de version - Intégration continue</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -894,7 +884,7 @@ Langues</i></h2>
   <td>Jenkins</td>
 </tr>
 <tr>
-  <td><b>Gestionnaire de base de données</b></td>
+  <td><strong>Gestionnaire de base de données</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -918,7 +908,7 @@ Langues</i></h2>
   <td>Microsoft Access</td>
 </tr>
 <tr>
-  <td><b>Mesure de qualité du code source</b></td>
+  <td><strong>Mesure de qualité du code source</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -926,7 +916,7 @@ Langues</i></h2>
   <td>SonarQube</td>
 </tr>
 <tr>
-  <td><b>Terminal</b></td>
+  <td><strong>Terminal</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -942,7 +932,7 @@ Langues</i></h2>
   <td>Powershell</td>
 </tr>
 <tr>
-  <td><b>Supervision</b></td>
+  <td><strong>Supervision</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -950,16 +940,12 @@ Langues</i></h2>
   <td>HP Open View Operations</td>
 </tr>
 <tr>
-  <td><b>Support - Ticketing - Suivi de projet - Wiki - Test</b></td>
+  <td><strong>Support - Ticketing - Suivi de projet - Wiki - Test</strong></td>
   <td></td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="85"></meter></td>
   <td>BMC Remedy IT Service Management</td>
-</tr>
-<tr>
-  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="80"></meter></td>
-  <td>Atlassian Confluence</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
@@ -971,10 +957,14 @@ Langues</i></h2>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
+  <td>Atlassian Confluence</td>
+</tr>
+<tr>
+  <td><meter min="0" max="100" low="25" high="65" optimum="100" value="70"></meter></td>
   <td>Mantis Bug Tracker</td>
 </tr>
 <tr>
-  <td><b>Machine virtuelle</b></td>
+  <td><strong>Machine virtuelle</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -982,7 +972,7 @@ Langues</i></h2>
   <td>Oracle VM VirtualBox</td>
 </tr>
 <tr>
-  <td><b>Communication bancaire</b></td>
+  <td><strong>Communication bancaire</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -994,7 +984,7 @@ Langues</i></h2>
   <td>Interpel</td>
 </tr>
 <tr>
-  <td><b>Graphisme</b></td>
+  <td><strong>Graphisme</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -1011,11 +1001,11 @@ Langues</i></h2>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Adobe Photoshop</td>
+  <td>Inkscape</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Adobe Dreamweaver</td>
+  <td>Adobe Photoshop</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
@@ -1023,7 +1013,7 @@ Langues</i></h2>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="65"></meter></td>
-  <td>Inkscape</td>
+  <td>Adobe Dreamweaver</td>
 </tr>
 <tr>
   <td><meter min="0" max="100" low="25" high="65" optimum="100" value="55"></meter></td>
@@ -1034,7 +1024,7 @@ Langues</i></h2>
   <td>Gimp</td>
 </tr>
 <tr>
-  <td><b>Bureautique</b></td>
+  <td><strong>Bureautique</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -1058,7 +1048,7 @@ Langues</i></h2>
   <td>OpenOffice</td>
 </tr>
 <tr>
-  <td><b>Méthodes</b></td>
+  <td><strong>Méthodes</strong></td>
   <td></td>
 </tr>
 <tr>
@@ -1088,15 +1078,15 @@ Langues</i></h2>
 </tr>
 </thead>
 <tbody><tr>
-  <td><b>Blog</b></td>
+  <td><strong>Blog</strong></td>
   <td><a href="http://monsieurzad.blogspot.fr">http://monsieurzad.blogspot.fr/</a></td>
 </tr>
 <tr>
-  <td><b>GitHub</b></td>
+  <td><strong>GitHub</strong></td>
   <td><a href="https://github.com/MonsieurZad">https://github.com/MonsieurZad</a></td>
 </tr>
 <tr>
-  <td><b>BellePivoine</b></td>
+  <td><strong>BellePivoine</strong></td>
   <td><a href="http://bellepivoine.com/">http://bellepivoine.com/</a></td>
 </tr>
 </tbody></table>
