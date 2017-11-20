@@ -129,8 +129,6 @@ J’ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa, L
 	</tbody>
 </table>
 
-<div style="page-break-before:always">&nbsp;</div>
-
 <h2 id="expériences-professionnelles"><i class="fa fa-briefcase"> Expériences professionnelles</i></h2>
 <h3 id="belle-pivoine"><i class="fa fa-bookmark"> Belle Pivoine</i></h3>
 
