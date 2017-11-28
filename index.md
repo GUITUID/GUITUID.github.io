@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 | ![MonsieurZad](../images/zadwarf.png) | Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects. <br /><br /> Actually working as a "consultant" as bread and butter work. Working on my Libgdx games when I have spare time.  |
 
-## 1. Curiculum vitae: 
+## 1. Resume: 
 
 [French](../resume/fr/resume_fr.html) [<i class="flag france"></i>](../resume/fr/resume_fr.html) - [Printable](../resume/fr/CV_11_2017.pdf)
 <br />
