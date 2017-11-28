@@ -9,7 +9,7 @@
 
 ## 1. Resume: 
 
-[French](../resume/fr/resume_fr.html) [<i class="flag france"></i>](../resume/fr/resume_fr.html) - [Printable](../resume/fr/CV_11_2017.pdf)
+[French](../resume/fr/resume_fr.md) [<i class="flag france"></i>](../resume/fr/resume_fr.md) - [Printable](../resume/fr/CV_11_2017.pdf)
 <br />
 [English](../resume_en.html) [<i class="flag united kingdom"></i>](../resume/resume_en.html) - [Printable](../resume/fr/CV_11_2017.pdf)
 
