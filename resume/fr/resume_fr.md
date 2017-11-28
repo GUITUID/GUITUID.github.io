@@ -122,7 +122,7 @@ J&apos;ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa
 		</tr>
 		<tr>
 		  <td><i class="fa fa-gavel"> 2006</i></td>
-		  <td>&eacute;tudes notariales (1i&egrave;re ann&eacute;e, &eacute;cole Notariale de Paris)</td>
+		  <td>&Eacute;tudes notariales (1i&egrave;re ann&eacute;e, &eacute;cole Notariale de Paris)</td>
 		</tr>
 		<tr>
 		  <td><i class="fa fa-keyboard-o"> 2005</i></td>
