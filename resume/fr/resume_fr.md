@@ -441,7 +441,7 @@ J&apos;ai pu travailler pour plusieurs clients grand comptes (Total, Orange, Axa
   <td>COME (Convergence March&eacute; Entreprises) est un projet initi&eacute; en 2012, un nouveau SI d&eacute;di&eacute; aux offres mobiles et convergentes, <br />
   pour le p&eacute;rim&egrave;tre Entreprise et ses canaux de vente, avec potentiellement 18 000 utilisateurs.
   <br />Permettant de couvrir le p&eacute;rim&egrave;tre Entreprises et Grands Comptes.
-  <br />Mon r&ocirc;le au sein de ce projet &eacute;tait de g&eacute;rer la bonne affectation des defects aux bonne &eacute;quipes <br />(analyse de la root cause et fourniture d&apos;un workaround avec l&apos;aide des &eacute;quipes techniques concern&eacute;es).</td>
+  <br />Mon r&ocirc;le au sein de ce projet &eacute;tait de g&eacute;rer la bonne affectation des defects aux bonnes &eacute;quipes <br />(analyse de la root cause et fourniture d&apos;un workaround avec l&apos;aide des &eacute;quipes techniques concern&eacute;es).</td>
 </tr>
 <tr>
   <td>Missions</td>
