@@ -14,7 +14,9 @@
 </i><a href="guillaume.tuis.cv@gmail.com"> guillaume.tuis.cv@gmail.com</a></p>
 
 <h1 id="analyste-developpeur-java-appian-aem-agile">Analyste Developpeur Java / Appian / AEM / Agile</h1>
+
 <br>
+
 <h2 id="r&eacute;sum&eacute;"><i class="fa fa-file-text-o"> R&eacute;sum&eacute;</i></h2>
 
 <p>D&eacute;veloppeur depuis pr&egrave;s 8 ans dont 7 pass&eacute;s au sein d&apos;Accenture Technology Solutions. </p>
