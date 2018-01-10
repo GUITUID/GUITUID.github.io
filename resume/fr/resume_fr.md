@@ -1,7 +1,7 @@
 <!-- <!DOCTYPE html> -->
 <html lang="fr">
 <head>
-	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="MonsieurZad.github.io/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="../UI-Flag-master/flag.css">
 </head>
 <body>
