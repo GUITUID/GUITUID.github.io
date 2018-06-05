@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h2>Guillaume Tuis <br />
+<h2>Guillaume Tuis <br /><br />
 48 Avenue de fontainebleau, 77310, Pringy &bull; 06.74.33.75.02 &bull; guillaume.tuis.cv@gmail.com</h2>
 <br />
 <h2>Analyst programmer | JAVA</h2>
