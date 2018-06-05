@@ -7,7 +7,7 @@
 <body>
 
 <h2>Guillaume Tuis <br />
-48 Avenue de fontainebleau, 77310, Pringy &bull; 06.74.33.75.02 &bull; <a href="mailto:"guillaume.tuis.cv@gmail.com">guillaume.tuis.cv@gmail.com</a></h2>
+48 Avenue de fontainebleau, 77310, Pringy &bull; 06.74.33.75.02 &bull; guillaume.tuis.cv@gmail.com</h2>
 
 <h2>Analyste d&eacute;veloppeur | JAVA</h2>
 
@@ -46,3 +46,5 @@ THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL <br />
 Appian - 201 FUNDAMENTALS Designer [D201] 17.1 | Appian - 202 ADV EXP & SAIL Designer [D202] 17.1 | Adobe AEM (Bootcamp 6.2, Develop Websites & Components AEM 6.2 Administer and Securely Maintain AEM 6.x) | Adobe AEM (Adobe Developer v6.0, AEM Fastrack Developer, Advanced Developer v6.0, System Administrator v6.0, Bootcamp 6.2) | SAS 9.2 - Operations Research | SAS 9.2 (Data Integration Studio, Enterprise Guide, Management Console, Web Report, Add-in for Microsoft Office Studio, BI Dashboard, Information Map Studio, Information Delivery Portal, Bookrunner)
 </body>
 </html>
+
+https://github.com/MonsieurZad/MonsieurZad.github.io/blob/master/resume/fr/1_sheet_resume_fr.md
