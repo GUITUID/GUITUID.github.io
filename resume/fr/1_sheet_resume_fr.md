@@ -43,7 +43,7 @@ Espace Client Converg&eacute;, application regroupant les activit&eacute;s banqu
 &bull; <b>ORANGE</b> | 01/12/2014 - 29/01/2016 | <i>Defect manager</i> <br />
 COME, gestion du suivi des incidents de l&apos;application et recherche de solution &agrave; l&apos;aide des architectes concern&eacute;s <br />
 &bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>d&eacute;veloppeur /support technico applicatif N2/N3</i> <br />
-THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL <br />
+THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL
 <br />
 <br />
 <h2>Formations professionnelles</h2>
