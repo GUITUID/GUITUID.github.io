@@ -6,27 +6,30 @@
 </head>
 <body>
 
-<h2>Guillaume Tuis <br />
+<h2>Guillaume Tuis <br /><br />
 48 Avenue de fontainebleau, 77310, Pringy &bull; 06.74.33.75.02 &bull; guillaume.tuis.cv@gmail.com</h2>
-
+<br />
 <h2>Analyste d&eacute;veloppeur | JAVA</h2>
-
+<br />
 <h2>R&eacute;sum&eacute; des qualifications</h2>
 &bull; Analyse du besoin client, &eacute;tude et mise en place de la solution technique correspondante <br />
 &bull; Conception et d&eacute;veloppement logiciel <br />
 &bull; R&eacute;daction de documentation technique et fonctionnelle <br />
 &bull; Support applicatif et technique 
-
+<br />
 <h2>Comp&eacute;tences techniques</h2>
+<br />
 <i>Plateformes :</i> Windows | Ubuntu | Lubuntu | CentOS <br />
 <i>Logiciels :</i> Eclipse | Wamp |  Xampp | Atom | VisualC# | Wordpress | Adobe AEM | Appian | GIT | Maven | Jenkins | MySQL | Toad | Oracle SQL developer | HeidiSQL | Microsoft Access | SonarQube | Putty | Terminal | Powershell | HP Open View Operations | BMC Remedy IT Service Management | HP Application Lifecycle Management | Atlassian Jira & Confluence | Mantis Bug Tracker | Oracle VM VirtualBox | CMM Weblogic | Interpel | Adobe Illustrator | Adobe Lightroom |  GraphicsGale | Inkscape | Adobe Photoshop | Adobe Fireworks | Adobe Dreamweaver | Gimp | Microsoft Office | Microsoft Outlook | Mozilla Thunderbird | IBM Notes | OpenOffice, Webdev 23 <br />
 <i>Langages :</i> HTML | VBA | HTL (anciennement Sightly) | JSON | SQL | Java | PHP | XML | ASP | Shell | CSS | Appian SAIL | C# | Javascript | Ruby
-
+<br />
 <h2>Exp&eacute;rience professionnelle</h2>
+<br />
 &bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - aujourd'hui | Analyste d&eacute;veloppeur <br />
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | D&eacute;veloppeur
-
+<br />
 <h2>Projets</h2>
+<br />
 &bull; <b>Accenture Technology Solutions</b> |11/04/2018 - aujourd&apos;hui | <i>d&eacute;veloppeur</i> <br />
 Refonte du site RH interne ainsi que de l&apos;application tablette correspondante <br />
 &bull; <b>Syst&egrave;me D</b> | 18/07/2017 - aujourd&apos;hui | <i>d&eacute;veloppeur</i> <br />
@@ -41,10 +44,9 @@ Espace Client Converg&eacute;, application regroupant les activit&eacute;s banqu
 COME, gestion du suivi des incidents de l&apos;application et recherche de solution &agrave; l&apos;aide des architectes concern&eacute;s <br />
 &bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>d&eacute;veloppeur /support technico applicatif N2/N3</i> <br />
 THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL <br />
-
+<br />
 <h2>Formations professionnelles</h2>
+<br />
 Appian - 201 FUNDAMENTALS Designer [D201] 17.1 | Appian - 202 ADV EXP & SAIL Designer [D202] 17.1 | Adobe AEM (Bootcamp 6.2, Develop Websites & Components AEM 6.2 Administer and Securely Maintain AEM 6.x) | Adobe AEM (Adobe Developer v6.0, AEM Fastrack Developer, Advanced Developer v6.0, System Administrator v6.0, Bootcamp 6.2) | SAS 9.2 - Operations Research | SAS 9.2 (Data Integration Studio, Enterprise Guide, Management Console, Web Report, Add-in for Microsoft Office Studio, BI Dashboard, Information Map Studio, Information Delivery Portal, Bookrunner)
 </body>
 </html>
-
-https://github.com/MonsieurZad/MonsieurZad.github.io/blob/master/resume/fr/1_sheet_resume_fr.md
