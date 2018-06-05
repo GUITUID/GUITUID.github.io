@@ -43,7 +43,7 @@ Espace Client Conver&eacute;, an application regrouping bank and insurrance prod
 &bull; <b>ORANGE</b> | 01/12/2014 - 29/01/2016 | <i>Defect manager</i> <br />
 COME, incident tracking, solution deployment with help from the architects <br />
 &bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>Programmer /Technical an application support L2/L3</i> <br />
-THEMIS, centralized treasury application for TOTAL company <br />
+THEMIS, centralized treasury application for TOTAL company
 <br />
 <br />
 <h2>Professionnal training</h2>
