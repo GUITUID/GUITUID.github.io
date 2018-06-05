@@ -30,19 +30,19 @@
 <br />
 <br />
 <h2>Projects</h2>
-&bull; <b>Accenture Technology Solutions</b> |11/04/2018 - today | <i>Programmer</i> <br />
+&bull; <b>Accenture Technology Solutions</b> |11/04/2018 - today | <i>Analyst programmer</i> <br />
 Internal HR application revision (website and tablet) <br />
-&bull; <b>Syst&egrave;me D</b> | 18/07/2017 - today | <i>Programmer</i> <br />
+&bull; <b>Syst&egrave;me D</b> | 18/07/2017 - today | <i>Analyst programmer</i> <br />
 Technical mentoring for seven projects related to participative democracy <br />
-&bull; <b>GRDF</b> | 18/07/2017 - 25/10/2017 | <i>Programmer</i> <br />
+&bull; <b>GRDF</b> | 18/07/2017 - 25/10/2017 | <i>Analyst programmer</i> <br />
 RACCOPILOT, application used to monitor gaz connection for B2B and B2C markets <br />
-&bull; <b>La Banque Postale</b> | 10/10/2016 - 20/02/2017 | <i>Programmer</i> <br />
+&bull; <b>La Banque Postale</b> | 10/10/2016 - 20/02/2017 | <i>Analyst programmer</i> <br />
 CAP Client 3.0, banking application used by agents in order to proactively propose new products to clients related to their profile <br />
-&bull; <b>AXA</b> | 01/02/2016 - 30/09/2016 | <i>Programmer</i>
+&bull; <b>AXA</b> | 01/02/2016 - 30/09/2016 | <i>Analyst programmer</i>
 Espace Client Conver&eacute;, an application regrouping bank and insurrance products on a single space <br />
 &bull; <b>ORANGE</b> | 01/12/2014 - 29/01/2016 | <i>Defect manager</i> <br />
 COME, incident tracking, solution deployment with help from the architects <br />
-&bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>Programmer /Technical an application support L2/L3</i> <br />
+&bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>Programmer /Technical and application support L2/L3</i> <br />
 THEMIS, centralized treasury application for TOTAL company
 <br />
 <br />
