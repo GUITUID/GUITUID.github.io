@@ -9,9 +9,9 @@
 
 ## 1. Resume: 
 
-[French](../resume/fr/1_sheet_resume_fr.html) [<i class="flag france"></i>](../resume/fr/resume_fr.html) - [Printable](../resume/fr/CV_11_2017.pdf)
+[French](../resume/fr/1_sheet_resume_fr.html) [<i class="flag france"></i>](../resume/fr/resume_fr.html) - [Printable](../resume/fr/1_sheet_resume_fr.pdf)
 <br />
-[English](../resume/en/1_sheet_resume_en.html) [<i class="flag united kingdom"></i>](../resume/en/1_sheet_resume_en.html) - [Printable](../resume/fr/CV_11_2017.pdf)
+[English](../resume/en/1_sheet_resume_en.html) [<i class="flag united kingdom"></i>](../resume/en/1_sheet_resume_en.html) - [Printable](../resume/en/1_sheet_resume_en.pdf)
 
 ## 2. Main projects:
 
