@@ -9,7 +9,7 @@
 <h2>Guillaume Tuis <br />
 48 Avenue de fontainebleau, 77310, Pringy &bull; 06.74.33.75.02 &bull; guillaume.tuis.cv@gmail.com</h2>
 <br />
-<h2>Analyste d&eacute;veloppeur | JAVA</h2>
+<h2>Analyst programmer | JAVA</h2>
 <br />
 <h2>Skills resume</h2>
 &bull; Customer needs analysis, related technical solution creation and deployment<br />
