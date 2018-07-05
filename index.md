@@ -13,7 +13,7 @@
 <br />
 [English](../resume/en/1_sheet_resume_en.html) [<i class="flag united kingdom"></i>](../resume/en/1_sheet_resume_en.html) - [Printable](../resume/en/1_sheet_resume_en.pdf)
 
-## 2. Main projects:
+## 2. Work In Progress:
 
 ### Zeroquest
 [Zeroquest](https://github.com/MonsieurZad/Zeroquest) is a
