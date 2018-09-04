@@ -25,14 +25,15 @@
 <br />
 <br />
 <h2>Exp&eacute;rience professionnelle</h2>
-&bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - aujourd'hui | Analyste d&eacute;veloppeur <br />
+&bull; <b>iD Logique</b>, Réau, | 03/09/2018 - aujourd'hui | D&eacute;veloppeur <br />
+&bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - 31/08/2018 | Analyste d&eacute;veloppeur <br />
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | D&eacute;veloppeur
 <br />
 <br />
 <h2>Projets</h2>
-&bull; <b>Accenture Technology Solutions</b> |11/04/2018 - aujourd&apos;hui | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>Accenture Technology Solutions</b> |11/04/2018 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
 Refonte du site RH interne ainsi que de l&apos;application tablette correspondante <br />
-&bull; <b>Syst&egrave;me D</b> | 18/07/2017 - aujourd&apos;hui | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>Syst&egrave;me D</b> | 18/07/2017 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
 Accompagnement technique de sept projets de d&eacute;mocratie participative <br />
 &bull; <b>GRDF</b> | 18/07/2017 - 25/10/2017 | <i>d&eacute;veloppeur</i> <br />
 RACCOPILOT, application de suivi du pilotage du raccordement au gaz pour le B2C et B2B <br />
