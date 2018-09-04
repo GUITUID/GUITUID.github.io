@@ -25,7 +25,7 @@
 <br />
 <br />
 <h2>Exp&eacute;rience professionnelle</h2>
-&bull; <b>iD Logique</b>, Réau, | 03/09/2018 - aujourd'hui | D&eacute;veloppeur <br />
+&bull; <b>iD Logique</b>, Réau | 03/09/2018 - aujourd'hui | D&eacute;veloppeur <br />
 &bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - 31/08/2018 | Analyste d&eacute;veloppeur <br />
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | D&eacute;veloppeur
 <br />
