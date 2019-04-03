@@ -25,7 +25,8 @@
 <br />
 <br />
 <h2>Professionnal experience</h2>
-&bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - today | Analyst programmer <br />
+&bull; <b>iD Logique</b>, Réau | 03/09/2018 - Today | Analyst programmer <br />
+&bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - 31/08/2018 | Analyst programmer <br />
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | Programmer
 <br />
 <br />
