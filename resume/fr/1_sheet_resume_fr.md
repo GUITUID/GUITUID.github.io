@@ -25,7 +25,7 @@
 <br />
 <br />
 <h2>Exp&eacute;rience professionnelle</h2>
-&bull; <b>iD Logique</b>, Réau | 03/09/2018 - aujourd'hui | D&eacute;veloppeur <br />
+&bull; <b>iD Logique</b>, Limoges-Fourches | 03/09/2018 - aujourd'hui | Consultant D&eacute;veloppeur <br />
 &bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - 31/08/2018 | Analyste d&eacute;veloppeur <br />
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | D&eacute;veloppeur
 <br />
@@ -48,6 +48,6 @@ THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL
 <br />
 <br />
 <h2>Formations professionnelles</h2>
-Appian - 201 FUNDAMENTALS Designer [D201] 17.1 | Appian - 202 ADV EXP & SAIL Designer [D202] 17.1 | Adobe AEM (Bootcamp 6.2, Develop Websites & Components AEM 6.2 Administer and Securely Maintain AEM 6.x) | Adobe AEM (Adobe Developer v6.0, AEM Fastrack Developer, Advanced Developer v6.0, System Administrator v6.0, Bootcamp 6.2) | SAS 9.2 - Operations Research | SAS 9.2 (Data Integration Studio, Enterprise Guide, Management Console, Web Report, Add-in for Microsoft Office Studio, BI Dashboard, Information Map Studio, Information Delivery Portal, Bookrunner)
+MyReport Data  Essential | MyReport Builder Essential | Appian - 201 FUNDAMENTALS Designer [D201] 17.1 | Appian - 202 ADV EXP & SAIL Designer [D202] 17.1 | Adobe AEM (Bootcamp 6.2, Develop Websites & Components AEM 6.2 Administer and Securely Maintain AEM 6.x) | Adobe AEM (Adobe Developer v6.0, AEM Fastrack Developer, Advanced Developer v6.0, System Administrator v6.0, Bootcamp 6.2) | SAS 9.2 - Operations Research | SAS 9.2 (Data Integration Studio, Enterprise Guide, Management Console, Web Report, Add-in for Microsoft Office Studio, BI Dashboard, Information Map Studio, Information Delivery Portal, Bookrunner)
 </body>
 </html>
