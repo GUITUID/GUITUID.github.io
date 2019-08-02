@@ -5,9 +5,9 @@
 
 |   | |
 | ------------- | ------------- |
-| ![MonsieurZad](../images/zadwarf.png) | [French](../resume/fr/french.html) Bienvenue sur ma Page GitHub, vous y trouverez plus d'informations me concernant ainsi que sur mes projets en cours.|
+| ![MonsieurZad](../images/zadwarf.png) | [<i class="flag france"></i>](../resume/fr/french.html) Bienvenue sur ma Page GitHub, vous y trouverez plus d'informations me concernant ainsi que sur mes projets en cours.|
 
 |   | |
 | ------------- | ------------- |
-| ![MonsieurZad](../images/zadwarf.png) | [English](../resume/en/english.html) Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.|
+| ![MonsieurZad](../images/zadwarf.png) | [<i class="flag united kingdom"></i>](../resume/en/english.html) Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects.|
 
