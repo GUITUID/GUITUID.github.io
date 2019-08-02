@@ -6,11 +6,10 @@
 ## 2. Projets en cours:
 
 ### Zeroquest
-[Zeroquest](https://github.com/MonsieurZad/Zeroquest) est un jeu textuel inspiré d'[Heroquest](https://fr.wikipedia.org/wiki/HeroQuest_(jeu_de_soci%C3%A9t%C3%A9)), is a
-un module graphique y sera ajouté plus tard. <br />
+[Zeroquest](https://github.com/MonsieurZad/Zeroquest) est un jeu textuel inspiré d'[Heroquest](https://fr.wikipedia.org/wiki/HeroQuest_(jeu_de_soci%C3%A9t%C3%A9)), un module graphique y sera ajouté plus tard. <br />
 
 ### Snake
-[Snake](https://github.com/MonsieurZad/Snake) est un jeu de type Snake developpé avec Libgdx a partir du livre PacktPub 
+[Snake](https://github.com/MonsieurZad/Snake) est un jeu de type Snake developpé avec Libgdx a partir du livre: 
 [LibGDX Game Development By Example](https://www.packtpub.com/game-development/libgdx-game-development-example) <br />
 le jeu sera mis à jours avec des bonus (supers pommes, bonus de vitesse...).
 
