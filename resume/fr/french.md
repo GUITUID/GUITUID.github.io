@@ -3,7 +3,7 @@
 [French](../resume/fr/1_sheet_resume_fr.html) [<i class="flag france"></i>](../resume/fr/1_sheet_resume_fr.html) - [Imprimable](../resume/fr/1_sheet_resume_fr.pdf)
 <br />
 
-## 2. Projets en cours:
+## 2. Projets personnels en cours:
 
 ### Zeroquest
 [Zeroquest](https://github.com/MonsieurZad/Zeroquest) est un jeu textuel inspiré d'[Heroquest](https://fr.wikipedia.org/wiki/HeroQuest_(jeu_de_soci%C3%A9t%C3%A9)), un module graphique y sera ajouté plus tard. <br />
