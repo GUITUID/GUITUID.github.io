@@ -1,6 +1,6 @@
 ## 1. Curriculum vitæ: 
 
-[French](../resume/fr/1_sheet_resume_fr.html) [<i class="flag france"></i>](../resume/fr/1_sheet_resume_fr.html) - [Imprimable](../resume/fr/1_sheet_resume_fr.pdf)
+[French](../1_sheet_resume_fr.html) [<i class="flag france"></i>](../1_sheet_resume_fr.html) - [Imprimable](../1_sheet_resume_fr.pdf)
 <br />
 
 ## 2. Projets personnels en cours:
