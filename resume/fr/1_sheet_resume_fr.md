@@ -33,19 +33,19 @@
 &bull; <b>iD Logique</b> | 03/09/2018 - aujourd'hui | <i>Consultant d&eacute;veloppeur</i> <br />
 Plusieurs projets de comptabilité/gestion commerciale en relation avec Sage/EBP. <br />
 Parmis les plus significatifs: Mise en place d'un EDI, Outil de mise à jours des tarifs produits, outil d'intégration d'écritures comptables<br />
-&bull; <b>Accenture Technology Solutions</b> | 11/04/2018 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>Accenture Technology Solutions</b> | 11/04/2018 - 31/08/2018 | <i>D&eacute;veloppeur</i> <br />
 Refonte du site RH interne ainsi que de l&apos;application tablette correspondante <br />
-&bull; <b>Syst&egrave;me D</b> | 18/07/2017 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>Syst&egrave;me D</b> | 18/07/2017 - 31/08/2018 | <i>D&eacute;veloppeur</i> <br />
 Accompagnement technique de sept projets de d&eacute;mocratie participative <br />
-&bull; <b>GRDF</b> | 18/07/2017 - 25/10/2017 | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>GRDF</b> | 18/07/2017 - 25/10/2017 | <i>D&eacute;veloppeur</i> <br />
 RACCOPILOT, application de suivi du pilotage du raccordement au gaz pour le B2C et B2B <br />
-&bull; <b>La Banque Postale</b> | 10/10/2016 - 20/02/2017 | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>La Banque Postale</b> | 10/10/2016 - 20/02/2017 | <i>D&eacute;veloppeur</i> <br />
 CAP Client 3.0, application &agrave; destination des agents permettant une démarche proactive dans la proposition de produits aux clients <br />
-&bull; <b>AXA</b> | 01/02/2016 - 30/09/2016 | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>AXA</b> | 01/02/2016 - 30/09/2016 | <i>D&eacute;veloppeur</i> <br />
 Espace Client Converg&eacute;, application regroupant les activit&eacute;s banque et assurance au sein d&apos;un m&ecirc;me espace <br />
 &bull; <b>ORANGE</b> | 01/12/2014 - 29/01/2016 | <i>Defect manager</i> <br />
 COME, gestion du suivi des incidents de l&apos;application et recherche de solution &agrave; l&apos;aide des architectes concern&eacute;s <br />
-&bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>d&eacute;veloppeur /support technico applicatif N2/N3</i> <br />
+&bull; <b>TOTAL</b> | 28/10/2010 - 19/08/2014 | <i>D&eacute;veloppeur /support technico applicatif N2/N3</i> <br />
 THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL
 <br />
 <br />
