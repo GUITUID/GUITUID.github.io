@@ -19,9 +19,8 @@
 <br />
 <br />
 <h2>Comp&eacute;tences techniques</h2>
-<i>Plateformes :</i> Windows | Ubuntu | Lubuntu | CentOS <br />
-<i>Logiciels :</i> Eclipse | Wamp |  Xampp | Atom | VisualC# | Wordpress | Adobe AEM | Appian | GIT | Maven | Jenkins | MySQL | Toad | Oracle SQL developer | HeidiSQL | Microsoft Access | SonarQube | Putty | Terminal | Powershell | HP Open View Operations | BMC Remedy IT Service Management | HP Application Lifecycle Management | Atlassian Jira & Confluence | Mantis Bug Tracker | Oracle VM VirtualBox | CMM Weblogic | Interpel | Adobe Illustrator | Adobe Lightroom |  GraphicsGale | Inkscape | Adobe Photoshop | Adobe Fireworks | Adobe Dreamweaver | Gimp | Microsoft Office | Microsoft Outlook | Mozilla Thunderbird | IBM Notes | OpenOffice | Webdev 23 | Windev Mobile 23 <br />
-<i>Langages :</i> HTML | VBA | HTL (anciennement Sightly) | JSON | SQL | Java | PHP | XML | ASP | Shell | CSS | Appian SAIL | C# | Javascript | Ruby
+<i>Logiciels :</i>Windev 23 | Webdev 23 | Windev Mobile 23 | Eclipse | Wamp |  Xampp | Atom | VisualC# | Wordpress | Adobe AEM | Appian | GIT | Maven | Jenkins | MySQL | Toad | Oracle SQL developer | HeidiSQL | Microsoft Access | SonarQube | Putty | Terminal | Powershell | HP Open View Operations | BMC Remedy IT Service Management | HP Application Lifecycle Management | Atlassian Jira & Confluence | Mantis Bug Tracker | Oracle VM VirtualBox | CMM Weblogic | Interpel | Adobe Illustrator | Adobe Lightroom |  GraphicsGale | Inkscape | Adobe Photoshop | Adobe Fireworks | Adobe Dreamweaver | Gimp | Microsoft Office | Microsoft Outlook | Mozilla Thunderbird | IBM Notes | OpenOffice <br />
+<i>Langages :</i>WLangage | HTML | VBA | HTL (anciennement Sightly) | JSON | SQL | Java | PHP | XML | ASP | Shell | CSS | Appian SAIL | C# | Javascript | Ruby
 <br />
 <br />
 <h2>Exp&eacute;rience professionnelle</h2>
@@ -31,7 +30,10 @@
 <br />
 <br />
 <h2>Projets</h2>
-&bull; <b>Accenture Technology Solutions</b> |11/04/2018 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
+&bull; <b>iD Logique</b> | 03/09/2018 - aujourd'hui | <i>Consultant d&eacute;veloppeur</i> <br />
+Plusieurs projets de comptabilité/gestion commerciale en relation avec Sage/EBP. <br />
+Parmis les plus significatifs: Mise en place d'un EDI, Outil de mise à jours des tarifs produits, outil d'intégration d'écritures comptables<br />
+&bull; <b>Accenture Technology Solutions</b> | 11/04/2018 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
 Refonte du site RH interne ainsi que de l&apos;application tablette correspondante <br />
 &bull; <b>Syst&egrave;me D</b> | 18/07/2017 - 31/08/2018 | <i>d&eacute;veloppeur</i> <br />
 Accompagnement technique de sept projets de d&eacute;mocratie participative <br />
