@@ -19,7 +19,7 @@
 <br />
 <br />
 <h2>Comp&eacute;tences techniques</h2>
-<i>Logiciels : </i>Windev 23 | Webdev 23 | Windev Mobile 23 | Eclipse | Wamp |  Xampp | Atom | VisualC# | Wordpress | Adobe AEM | Appian | GIT | Maven | Jenkins | MySQL | Toad | Oracle SQL developer | HeidiSQL | Microsoft Access | SonarQube | Putty | Terminal | Powershell | HP Open View Operations | BMC Remedy IT Service Management | HP Application Lifecycle Management | Atlassian Jira & Confluence | Mantis Bug Tracker | Oracle VM VirtualBox | CMM Weblogic | Interpel | Adobe Illustrator | Adobe Lightroom |  GraphicsGale | Inkscape | Adobe Photoshop | Adobe Fireworks | Adobe Dreamweaver | Gimp | Microsoft Office | Microsoft Outlook | Mozilla Thunderbird | IBM Notes | OpenOffice <br />
+<i>Logiciels : </i>Windev 23 | Webdev 23 | Windev Mobile 23 | Eclipse | Wamp |  Xampp | Atom | VisualC# | Wordpress | Adobe AEM | Appian | GIT | Maven | Jenkins | MySQL | Toad | Oracle SQL developer | HeidiSQL | Microsoft Access | SonarQube | Putty | Terminal | Powershell | HP Open View Operations | BMC Remedy IT Service Management | HP Application Lifecycle Management | Atlassian Jira & Confluence | Mantis Bug Tracker | Oracle VM VirtualBox | CMM Weblogic | Interpel | Adobe Illustrator | Adobe Lightroom |  GraphicsGale | Inkscape | Adobe Photoshop | Adobe Fireworks | Adobe Dreamweaver | Gimp | Microsoft Office | Microsoft Outlook | Mozilla Thunderbird | IBM Notes | OpenOffice <br /><br />
 <i>Langages : </i>WLangage | HTML | VBA | HTL (anciennement Sightly) | JSON | SQL | Java | PHP | XML | ASP | Shell | CSS | Appian SAIL | C# | Javascript | Ruby
 <br />
 <br />
