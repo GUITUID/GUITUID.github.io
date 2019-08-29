@@ -12,7 +12,7 @@
 <h2>Analyste d&eacute;veloppeur</h2>
 <br />
 <h2>R&eacute;sum&eacute; des qualifications</h2>
-&bull; Analyse du besoin client, &eacute;tude, chiffrage et mise en place de la solution technique correspondante <br />
+&bull; Analyse du besoin client, chiffrage, rédaction du cahier des charges, rédaction du cahier de test et mise en place de la solution technique correspondante <br />
 &bull; Conception et d&eacute;veloppement logiciel <br />
 &bull; R&eacute;daction de documentation technique et fonctionnelle <br />
 &bull; Support applicatif et technique 
