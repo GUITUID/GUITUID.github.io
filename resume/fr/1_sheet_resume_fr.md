@@ -41,7 +41,7 @@ Accompagnement technique de sept projets de d&eacute;mocratie participative <br 
 RACCOPILOT, application de suivi du pilotage du raccordement au gaz pour le B2C et B2B <br />
 &bull; <b>La Banque Postale</b> | 10/10/2016 - 20/02/2017 | <i>d&eacute;veloppeur</i> <br />
 CAP Client 3.0, application &agrave; destination des agents permettant une démarche proactive dans la proposition de produits aux clients <br />
-&bull; <b>AXA</b> | 01/02/2016 - 30/09/2016 | <i>d&eacute;veloppeur</i>
+&bull; <b>AXA</b> | 01/02/2016 - 30/09/2016 | <i>d&eacute;veloppeur</i> <br />
 Espace Client Converg&eacute;, application regroupant les activit&eacute;s banque et assurance au sein d&apos;un m&ecirc;me espace <br />
 &bull; <b>ORANGE</b> | 01/12/2014 - 29/01/2016 | <i>Defect manager</i> <br />
 COME, gestion du suivi des incidents de l&apos;application et recherche de solution &agrave; l&apos;aide des architectes concern&eacute;s <br />
