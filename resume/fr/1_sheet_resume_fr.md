@@ -9,10 +9,10 @@
 <h2>Guillaume Tuis <br /><br />
 48 Avenue de fontainebleau, 77310, Pringy &bull; 06.74.33.75.02 &bull; guillaume.tuis.cv@gmail.com</h2>
 <br />
----
+____
 <h2>Analyste d&eacute;veloppeur</h2>
 <br />
----
+____
 <h2>R&eacute;sum&eacute; des qualifications</h2>
 &bull; Analyse du besoin client, chiffrage, rédaction du cahier des charges, rédaction du cahier de test et mise en place de la solution technique correspondante <br />
 &bull; Conception et d&eacute;veloppement logiciel <br />
@@ -20,20 +20,20 @@
 &bull; Support applicatif et technique 
 <br />
 <br />
----
+____
 <h2>Comp&eacute;tences techniques</h2>
 <i>Logiciels : </i>Windev 23 | Webdev 23 | Windev Mobile 23 | Eclipse | Wamp |  Xampp | Atom | VisualC# | Wordpress | Adobe AEM | Appian | GIT | Maven | Jenkins | MySQL | Toad | Oracle SQL developer | HeidiSQL | Microsoft Access | SonarQube | Putty | Terminal | Powershell | HP Open View Operations | BMC Remedy IT Service Management | HP Application Lifecycle Management | Atlassian Jira & Confluence | Mantis Bug Tracker | Oracle VM VirtualBox | CMM Weblogic | Interpel | Adobe Illustrator | Adobe Lightroom |  GraphicsGale | Inkscape | Adobe Photoshop | Adobe Fireworks | Adobe Dreamweaver | Gimp | Microsoft Office | Microsoft Outlook | Mozilla Thunderbird | IBM Notes | OpenOffice <br /><br />
 <i>Langages : </i>WLangage | HTML | VBA | HTL (anciennement Sightly) | JSON | SQL | Java | PHP | XML | ASP | Shell | CSS | Appian SAIL | C# | Javascript | Ruby
 <br />
 <br />
----
+____
 <h2>Exp&eacute;rience professionnelle</h2>
 &bull; <b>iD Logique</b>, Limoges-Fourches | 03/09/2018 - aujourd'hui | Consultant D&eacute;veloppeur <br />
 &bull; <b>ACCENTURE TECHNOLOGY SOLUTIONS</b>, Paris | 28/10/2010 - 31/08/2018 | Analyste d&eacute;veloppeur <br />
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | D&eacute;veloppeur
 <br />
 <br />
----
+____
 <h2>Projets</h2>
 &bull; <b>iD Logique</b> | 03/09/2018 - aujourd'hui | <i>Consultant d&eacute;veloppeur</i> <br />
 Plusieurs projets de comptabilité/gestion commerciale en relation avec Sage/EBP. <br />
@@ -54,7 +54,7 @@ COME, gestion du suivi des incidents de l&apos;application et recherche de solut
 THEMIS, application centralisant la tr&eacute;sorerie du groupe TOTAL
 <br />
 <br />
----
+____
 <h2>Formations professionnelles</h2>
 MyReport Data  Essential | MyReport Builder Essential | Appian - 201 FUNDAMENTALS Designer [D201] 17.1 | Appian - 202 ADV EXP & SAIL Designer [D202] 17.1 | Adobe AEM (Bootcamp 6.2, Develop Websites & Components AEM 6.2 Administer and Securely Maintain AEM 6.x) | Adobe AEM (Adobe Developer v6.0, AEM Fastrack Developer, Advanced Developer v6.0, System Administrator v6.0, Bootcamp 6.2) | SAS 9.2 - Operations Research | SAS 9.2 (Data Integration Studio, Enterprise Guide, Management Console, Web Report, Add-in for Microsoft Office Studio, BI Dashboard, Information Map Studio, Information Delivery Portal, Bookrunner)
 </body>
