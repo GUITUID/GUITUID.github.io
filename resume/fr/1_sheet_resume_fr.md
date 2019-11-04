@@ -33,11 +33,11 @@
 &bull; <b>MOBIBASE</b>, Paris | 19/11/2009 - 31/08/2010 | D&eacute;veloppeur
 <br />
 <br />
-
 <h2>Projets</h2>
 &bull; <b>iD Logique</b> | 03/09/2018 - aujourd'hui | <i>Consultant d&eacute;veloppeur</i> <br />
-Plusieurs projets de comptabilité/gestion commerciale en relation avec Sage/EBP. <br />
+&bull;Plusieurs projets de comptabilité/gestion commerciale en relation avec Sage/EBP. <br />
 Parmis les plus significatifs: Mise en place d'un EDI, Outil de mise à jours des tarifs produits, outil d'intégration d'écritures comptables<br />
+&bull;Mise en place de procèdures et outils en interne: Git, instauration du processus de recettage, utilisation de Trello pour le suivi projet.
 &bull; <b>Accenture Technology Solutions</b> | 11/04/2018 - 31/08/2018 | <i>D&eacute;veloppeur</i> <br />
 Refonte du site RH interne ainsi que de l&apos;application tablette correspondante <br />
 &bull; <b>Syst&egrave;me D</b> | 18/07/2017 - 31/08/2018 | <i>D&eacute;veloppeur</i> <br />
