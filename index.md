@@ -11,5 +11,5 @@
 
 <br />
 
-[<i class="flag united kingdom"></i>](../resume/en/english.html) Welcome to MonsieurZad GitHub page, here you can find more informations about me and my projects, please click on the flag for further information.
+[<i class="flag united kingdom"></i>](../resume/en/english.html) Welcome to my GitHub page, here you can find more informations about me and my projects, please click on the flag for further information.
 
